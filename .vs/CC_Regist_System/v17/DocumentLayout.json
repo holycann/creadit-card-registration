@@ -1,0 +1,423 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\INTI-Collage\\Web-Application-Development\\CC_Regist_System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C76763B9-0E19-44BD-2DDF-CB810AC4C085}|CC_Regist_System.csproj|e:\\inti-collage\\web-application-development\\cc_regist_system\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{C76763B9-0E19-44BD-2DDF-CB810AC4C085}|CC_Regist_System.csproj|solutionrelative:wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C76763B9-0E19-44BD-2DDF-CB810AC4C085}|CC_Regist_System.csproj|e:\\inti-collage\\web-application-development\\cc_regist_system\\controllers\\applycardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C76763B9-0E19-44BD-2DDF-CB810AC4C085}|CC_Regist_System.csproj|solutionrelative:controllers\\applycardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C76763B9-0E19-44BD-2DDF-CB810AC4C085}|CC_Regist_System.csproj|e:\\inti-collage\\web-application-development\\cc_regist_system\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C76763B9-0E19-44BD-2DDF-CB810AC4C085}|CC_Regist_System.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C76763B9-0E19-44BD-2DDF-CB810AC4C085}|CC_Regist_System.csproj|e:\\inti-collage\\web-application-development\\cc_regist_system\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C76763B9-0E19-44BD-2DDF-CB810AC4C085}|CC_Regist_System.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C76763B9-0E19-44BD-2DDF-CB810AC4C085}|CC_Regist_System.csproj|e:\\inti-collage\\web-application-development\\cc_regist_system\\enums\\userenums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C76763B9-0E19-44BD-2DDF-CB810AC4C085}|CC_Regist_System.csproj|solutionrelative:enums\\userenums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C76763B9-0E19-44BD-2DDF-CB810AC4C085}|CC_Regist_System.csproj|e:\\inti-collage\\web-application-development\\cc_regist_system\\enums\\cardenums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C76763B9-0E19-44BD-2DDF-CB810AC4C085}|CC_Regist_System.csproj|solutionrelative:enums\\cardenums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C76763B9-0E19-44BD-2DDF-CB810AC4C085}|CC_Regist_System.csproj|e:\\inti-collage\\web-application-development\\cc_regist_system\\enums\\enumextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C76763B9-0E19-44BD-2DDF-CB810AC4C085}|CC_Regist_System.csproj|solutionrelative:enums\\enumextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C76763B9-0E19-44BD-2DDF-CB810AC4C085}|CC_Regist_System.csproj|e:\\inti-collage\\web-application-development\\cc_regist_system\\views\\applycard\\apply.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C76763B9-0E19-44BD-2DDF-CB810AC4C085}|CC_Regist_System.csproj|solutionrelative:views\\applycard\\apply.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C76763B9-0E19-44BD-2DDF-CB810AC4C085}|CC_Regist_System.csproj|e:\\inti-collage\\web-application-development\\cc_regist_system\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C76763B9-0E19-44BD-2DDF-CB810AC4C085}|CC_Regist_System.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C76763B9-0E19-44BD-2DDF-CB810AC4C085}|CC_Regist_System.csproj|e:\\inti-collage\\web-application-development\\cc_regist_system\\views\\applycard\\review.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C76763B9-0E19-44BD-2DDF-CB810AC4C085}|CC_Regist_System.csproj|solutionrelative:views\\applycard\\review.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C76763B9-0E19-44BD-2DDF-CB810AC4C085}|CC_Regist_System.csproj|e:\\inti-collage\\web-application-development\\cc_regist_system\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C76763B9-0E19-44BD-2DDF-CB810AC4C085}|CC_Regist_System.csproj|solutionrelative:views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C76763B9-0E19-44BD-2DDF-CB810AC4C085}|CC_Regist_System.csproj|e:\\inti-collage\\web-application-development\\cc_regist_system\\views\\auth\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C76763B9-0E19-44BD-2DDF-CB810AC4C085}|CC_Regist_System.csproj|solutionrelative:views\\auth\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C76763B9-0E19-44BD-2DDF-CB810AC4C085}|CC_Regist_System.csproj|e:\\inti-collage\\web-application-development\\cc_regist_system\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C76763B9-0E19-44BD-2DDF-CB810AC4C085}|CC_Regist_System.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C76763B9-0E19-44BD-2DDF-CB810AC4C085}|CC_Regist_System.csproj|e:\\inti-collage\\web-application-development\\cc_regist_system\\cheatsheet.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C76763B9-0E19-44BD-2DDF-CB810AC4C085}|CC_Regist_System.csproj|solutionrelative:cheatsheet.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C76763B9-0E19-44BD-2DDF-CB810AC4C085}|CC_Regist_System.csproj|e:\\inti-collage\\web-application-development\\cc_regist_system\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C76763B9-0E19-44BD-2DDF-CB810AC4C085}|CC_Regist_System.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C76763B9-0E19-44BD-2DDF-CB810AC4C085}|CC_Regist_System.csproj|e:\\inti-collage\\web-application-development\\cc_regist_system\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C76763B9-0E19-44BD-2DDF-CB810AC4C085}|CC_Regist_System.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C76763B9-0E19-44BD-2DDF-CB810AC4C085}|CC_Regist_System.csproj|e:\\inti-collage\\web-application-development\\cc_regist_system\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C76763B9-0E19-44BD-2DDF-CB810AC4C085}|CC_Regist_System.csproj|solutionrelative:migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C76763B9-0E19-44BD-2DDF-CB810AC4C085}|CC_Regist_System.csproj|e:\\inti-collage\\web-application-development\\cc_regist_system\\migrations\\20250305194645_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C76763B9-0E19-44BD-2DDF-CB810AC4C085}|CC_Regist_System.csproj|solutionrelative:migrations\\20250305194645_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C76763B9-0E19-44BD-2DDF-CB810AC4C085}|CC_Regist_System.csproj|e:\\inti-collage\\web-application-development\\cc_regist_system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C76763B9-0E19-44BD-2DDF-CB810AC4C085}|CC_Regist_System.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C76763B9-0E19-44BD-2DDF-CB810AC4C085}|CC_Regist_System.csproj|e:\\inti-collage\\web-application-development\\cc_regist_system\\models\\cards\\carddetailsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C76763B9-0E19-44BD-2DDF-CB810AC4C085}|CC_Regist_System.csproj|solutionrelative:models\\cards\\carddetailsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C76763B9-0E19-44BD-2DDF-CB810AC4C085}|CC_Regist_System.csproj|e:\\inti-collage\\web-application-development\\cc_regist_system\\cc_regist_system.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C76763B9-0E19-44BD-2DDF-CB810AC4C085}|CC_Regist_System.csproj|solutionrelative:cc_regist_system.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C76763B9-0E19-44BD-2DDF-CB810AC4C085}|CC_Regist_System.csproj|e:\\inti-collage\\web-application-development\\cc_regist_system\\models\\cards\\cardsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C76763B9-0E19-44BD-2DDF-CB810AC4C085}|CC_Regist_System.csproj|solutionrelative:models\\cards\\cardsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C76763B9-0E19-44BD-2DDF-CB810AC4C085}|CC_Regist_System.csproj|e:\\inti-collage\\web-application-development\\cc_regist_system\\viewmodels\\applycardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C76763B9-0E19-44BD-2DDF-CB810AC4C085}|CC_Regist_System.csproj|solutionrelative:viewmodels\\applycardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C76763B9-0E19-44BD-2DDF-CB810AC4C085}|CC_Regist_System.csproj|e:\\inti-collage\\web-application-development\\cc_regist_system\\database\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C76763B9-0E19-44BD-2DDF-CB810AC4C085}|CC_Regist_System.csproj|solutionrelative:database\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C76763B9-0E19-44BD-2DDF-CB810AC4C085}|CC_Regist_System.csproj|e:\\inti-collage\\web-application-development\\cc_regist_system\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C76763B9-0E19-44BD-2DDF-CB810AC4C085}|CC_Regist_System.csproj|solutionrelative:viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplyCardController.cs",
+              "DocumentMoniker": "E:\\INTI-Collage\\Web-Application-Development\\CC_Regist_System\\Controllers\\ApplyCardController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ApplyCardController.cs",
+              "ToolTip": "E:\\INTI-Collage\\Web-Application-Development\\CC_Regist_System\\Controllers\\ApplyCardController.cs",
+              "RelativeToolTip": "Controllers\\ApplyCardController.cs",
+              "ViewState": "AgIAAIoBAAAAAAAAAAAYwKcBAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T10:52:13.253Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "E:\\INTI-Collage\\Web-Application-Development\\CC_Regist_System\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "E:\\INTI-Collage\\Web-Application-Development\\CC_Regist_System\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAowFYAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T06:08:10.047Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\INTI-Collage\\Web-Application-Development\\CC_Regist_System\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "E:\\INTI-Collage\\Web-Application-Development\\CC_Regist_System\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T20:00:25.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Apply.cshtml",
+              "DocumentMoniker": "E:\\INTI-Collage\\Web-Application-Development\\CC_Regist_System\\Views\\ApplyCard\\Apply.cshtml",
+              "RelativeDocumentMoniker": "Views\\ApplyCard\\Apply.cshtml",
+              "ToolTip": "E:\\INTI-Collage\\Web-Application-Development\\CC_Regist_System\\Views\\ApplyCard\\Apply.cshtml",
+              "RelativeToolTip": "Views\\ApplyCard\\Apply.cshtml",
+              "ViewState": "AgIAADEBAAAAAAAAAAAAADsBAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-03T10:51:38.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EnumExtensions.cs",
+              "DocumentMoniker": "E:\\INTI-Collage\\Web-Application-Development\\CC_Regist_System\\Enums\\EnumExtensions.cs",
+              "RelativeDocumentMoniker": "Enums\\EnumExtensions.cs",
+              "ToolTip": "E:\\INTI-Collage\\Web-Application-Development\\CC_Regist_System\\Enums\\EnumExtensions.cs",
+              "RelativeToolTip": "Enums\\EnumExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T19:39:19.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "site.js",
+              "DocumentMoniker": "E:\\INTI-Collage\\Web-Application-Development\\CC_Regist_System\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\site.js",
+              "ToolTip": "E:\\INTI-Collage\\Web-Application-Development\\CC_Regist_System\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "wwwroot\\js\\site.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-03-03T10:52:55.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\INTI-Collage\\Web-Application-Development\\CC_Regist_System\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\INTI-Collage\\Web-Application-Development\\CC_Regist_System\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAEcAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-05T09:17:12.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Review.cshtml",
+              "DocumentMoniker": "E:\\INTI-Collage\\Web-Application-Development\\CC_Regist_System\\Views\\ApplyCard\\Review.cshtml",
+              "RelativeDocumentMoniker": "Views\\ApplyCard\\Review.cshtml",
+              "ToolTip": "E:\\INTI-Collage\\Web-Application-Development\\CC_Regist_System\\Views\\ApplyCard\\Review.cshtml",
+              "RelativeToolTip": "Views\\ApplyCard\\Review.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-03T10:52:02.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "E:\\INTI-Collage\\Web-Application-Development\\CC_Regist_System\\Views\\Auth\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Auth\\Login.cshtml",
+              "ToolTip": "E:\\INTI-Collage\\Web-Application-Development\\CC_Regist_System\\Views\\Auth\\Login.cshtml",
+              "RelativeToolTip": "Views\\Auth\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-05T19:58:10.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CardEnums.cs",
+              "DocumentMoniker": "E:\\INTI-Collage\\Web-Application-Development\\CC_Regist_System\\Enums\\CardEnums.cs",
+              "RelativeDocumentMoniker": "Enums\\CardEnums.cs",
+              "ToolTip": "E:\\INTI-Collage\\Web-Application-Development\\CC_Regist_System\\Enums\\CardEnums.cs",
+              "RelativeToolTip": "Enums\\CardEnums.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T19:38:14.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserEnums.cs",
+              "DocumentMoniker": "E:\\INTI-Collage\\Web-Application-Development\\CC_Regist_System\\Enums\\UserEnums.cs",
+              "RelativeDocumentMoniker": "Enums\\UserEnums.cs",
+              "ToolTip": "E:\\INTI-Collage\\Web-Application-Development\\CC_Regist_System\\Enums\\UserEnums.cs",
+              "RelativeToolTip": "Enums\\UserEnums.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T19:39:20.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "E:\\INTI-Collage\\Web-Application-Development\\CC_Regist_System\\Views\\Auth\\Register.cshtml",
+              "RelativeDocumentMoniker": "Views\\Auth\\Register.cshtml",
+              "ToolTip": "E:\\INTI-Collage\\Web-Application-Development\\CC_Regist_System\\Views\\Auth\\Register.cshtml",
+              "RelativeToolTip": "Views\\Auth\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-05T19:57:59.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "cheatsheet.txt",
+              "DocumentMoniker": "E:\\INTI-Collage\\Web-Application-Development\\CC_Regist_System\\cheatsheet.txt",
+              "RelativeDocumentMoniker": "cheatsheet.txt",
+              "ToolTip": "E:\\INTI-Collage\\Web-Application-Development\\CC_Regist_System\\cheatsheet.txt",
+              "RelativeToolTip": "cheatsheet.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-03-05T09:26:55.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\INTI-Collage\\Web-Application-Development\\CC_Regist_System\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "E:\\INTI-Collage\\Web-Application-Development\\CC_Regist_System\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAB6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-05T18:56:00.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20250305194645_InitialCreate.cs",
+              "DocumentMoniker": "E:\\INTI-Collage\\Web-Application-Development\\CC_Regist_System\\Migrations\\20250305194645_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250305194645_InitialCreate.cs",
+              "ToolTip": "E:\\INTI-Collage\\Web-Application-Development\\CC_Regist_System\\Migrations\\20250305194645_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20250305194645_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T19:52:39.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\INTI-Collage\\Web-Application-Development\\CC_Regist_System\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\INTI-Collage\\Web-Application-Development\\CC_Regist_System\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACEAAABmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-05T06:14:17.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ApplicationDBContextModelSnapshot.cs",
+              "DocumentMoniker": "E:\\INTI-Collage\\Web-Application-Development\\CC_Regist_System\\Migrations\\ApplicationDBContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\ApplicationDBContextModelSnapshot.cs",
+              "ToolTip": "E:\\INTI-Collage\\Web-Application-Development\\CC_Regist_System\\Migrations\\ApplicationDBContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\ApplicationDBContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T19:52:44.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "E:\\INTI-Collage\\Web-Application-Development\\CC_Regist_System\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "E:\\INTI-Collage\\Web-Application-Development\\CC_Regist_System\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAB6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-05T19:53:02.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\INTI-Collage\\Web-Application-Development\\CC_Regist_System\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\INTI-Collage\\Web-Application-Development\\CC_Regist_System\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T05:49:44.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CardDetailsModel.cs",
+              "DocumentMoniker": "E:\\INTI-Collage\\Web-Application-Development\\CC_Regist_System\\Models\\Cards\\CardDetailsModel.cs",
+              "RelativeDocumentMoniker": "Models\\Cards\\CardDetailsModel.cs",
+              "ToolTip": "E:\\INTI-Collage\\Web-Application-Development\\CC_Regist_System\\Models\\Cards\\CardDetailsModel.cs",
+              "RelativeToolTip": "Models\\Cards\\CardDetailsModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T09:16:53.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CC_Regist_System.csproj",
+              "DocumentMoniker": "E:\\INTI-Collage\\Web-Application-Development\\CC_Regist_System\\CC_Regist_System.csproj",
+              "RelativeDocumentMoniker": "CC_Regist_System.csproj",
+              "ToolTip": "E:\\INTI-Collage\\Web-Application-Development\\CC_Regist_System\\CC_Regist_System.csproj",
+              "RelativeToolTip": "CC_Regist_System.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-05T06:00:06.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ApplyCardViewModel.cs",
+              "DocumentMoniker": "E:\\INTI-Collage\\Web-Application-Development\\CC_Regist_System\\ViewModels\\ApplyCardViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\ApplyCardViewModel.cs",
+              "ToolTip": "E:\\INTI-Collage\\Web-Application-Development\\CC_Regist_System\\ViewModels\\ApplyCardViewModel.cs",
+              "RelativeToolTip": "ViewModels\\ApplyCardViewModel.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAowE0AAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T10:51:10.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CardsModel.cs",
+              "DocumentMoniker": "E:\\INTI-Collage\\Web-Application-Development\\CC_Regist_System\\Models\\Cards\\CardsModel.cs",
+              "RelativeDocumentMoniker": "Models\\Cards\\CardsModel.cs",
+              "ToolTip": "E:\\INTI-Collage\\Web-Application-Development\\CC_Regist_System\\Models\\Cards\\CardsModel.cs",
+              "RelativeToolTip": "Models\\Cards\\CardsModel.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAwwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T09:18:04.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "E:\\INTI-Collage\\Web-Application-Development\\CC_Regist_System\\Database\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Database\\ApplicationDbContext.cs",
+              "ToolTip": "E:\\INTI-Collage\\Web-Application-Development\\CC_Regist_System\\Database\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Database\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAcwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T05:47:22.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "E:\\INTI-Collage\\Web-Application-Development\\CC_Regist_System\\ViewModels\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\RegisterViewModel.cs",
+              "ToolTip": "E:\\INTI-Collage\\Web-Application-Development\\CC_Regist_System\\ViewModels\\RegisterViewModel.cs",
+              "RelativeToolTip": "ViewModels\\RegisterViewModel.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAYwDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T06:30:49.908Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

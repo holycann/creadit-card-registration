@@ -1,0 +1,49 @@
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\wwwroot\lib\jquery-validation\dist\additional-methods.js
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\wwwroot\favicon.ico
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\wwwroot\lib\jquery\dist\jquery.js
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\wwwroot\lib\jquery\dist\jquery.min.js
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.min.js
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\wwwroot\lib\jquery\dist\jquery.slim.min.map
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.js
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\wwwroot\lib\jquery\dist\jquery.min.map
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\wwwroot\css\site.css
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\wwwroot\lib\jquery\dist\jquery.slim.js
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\wwwroot\js\site.js
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\wwwroot\lib\jquery\dist\jquery.slim.min.js
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\wwwroot\css\styles.css
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\wwwroot\lib\jquery-validation\LICENSE.md
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\wwwroot\lib\jquery\LICENSE.txt
+wwwroot\css\site.css
+wwwroot\css\styles.css
+wwwroot\favicon.ico
+wwwroot\images\chip.png
+wwwroot\images\mastercard.png
+wwwroot\images\visa.png
+wwwroot\images\visa_mastercard.png
+wwwroot\js\site.js
+wwwroot\lib\jquery\dist\jquery.js
+wwwroot\lib\jquery\dist\jquery.min.js
+wwwroot\lib\jquery\dist\jquery.min.map
+wwwroot\lib\jquery\dist\jquery.slim.js
+wwwroot\lib\jquery\dist\jquery.slim.min.js
+wwwroot\lib\jquery\dist\jquery.slim.min.map
+wwwroot\lib\jquery\LICENSE.txt
+wwwroot\lib\jquery-validation\dist\additional-methods.js
+wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+wwwroot\lib\jquery-validation\dist\jquery.validate.js
+wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+wwwroot\lib\jquery-validation\LICENSE.md
+wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.js
+wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.min.js
+wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
+wwwroot\uploads\AI-gigapixel.jpg
+wwwroot\uploads\Screenshot from 2025-02-25 20-09-45.png
+wwwroot\uploads\Screenshot from 2025-02-26 10-46-49.png
+wwwroot\uploads\Screenshot from 2025-02-27 00-11-38.png
+wwwroot\uploads\Screenshot from 2025-02-27 00-25-09.png
+wwwroot\uploads\signature.png
+wwwroot\uploads\Week 8

@@ -1,0 +1,235 @@
+﻿@model CC_Regist_System.Models.Users.UsersModel;
+
+@{
+    ViewData["Title"] = "Apply Credit Card";
+}
+
+<section class="cc-section">
+    <div class="cc-container">
+        <div class="cc-card front-face">
+            <header>
+                <span class="logo">
+                    <img src="~/images/visa.png" asp-append-version="true" alt="Card Logo" id="CardLogo"
+                        style="width: 50px;">
+                    <h5></h5>
+                </span>
+                <img src="~/images/chip.png" asp-append-version="true" alt="Chip Logo" class="chip">
+            </header>
+
+            <div class="cc-card-details">
+                <div class="name-number">
+                    <h6 class="text-sm">Card Number</h6>
+                    <h5 class="text-sm">**** **** **** ****</h5>
+                    <div class="mt-3 card-holder">
+                        <h6 class="text-sm">Card Holder</h6>
+                        <h5 class="text-sm">@Model.Fullname</h5>
+                    </div>
+                </div>
+
+
+                <div class="valid-date">
+                    <h6 class="text-sm">Expiration Date</h6>
+                    <h5>**/**</h5>
+                </div>
+            </div>
+        </div>
+
+        <div class="cc-card back-face">
+            <h6>
+                PT ABC Bank Tbk
+            </h6>
+            <span class="magnetic-strip"></span>
+            <div class="signature"><i>***</i></div>
+            <h5>
+                This card is the property of ABC BANK. Use of this card is subject
+                to terms and conditions of this Holy bank.If found please email halo@holy.bank.id
+            </h5>
+        </div>
+    </div>
+</section>
+
+<div class="flex justify-center items-center">
+    <div
+        class="block max-w-4xl p-6 bg-white border border-gray-200 rounded-lg shadow-sm hover:bg-gray-100 dark:bg-gray-800 dark:border-gray-700 dark:hover:bg-gray-700">
+
+        <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white text-center mb-4">Credit Card
+            Details
+        </h5>
+        <div class="grid grid-cols-3 gap-4 mb-3 justify-center text-center items-center mb-8">
+            <div class="flex flex-col text-center text-white">
+                <h5 class="font-semi-bold mb-3">Card Name</h5>
+                <p class="text-gray-400" id="CardName">@ViewData["CardName"]</p>
+            </div>
+            <div class="flex flex-col text-center text-white">
+                <h5 class="font-semi-bold mb-3">Card Type</h5>
+                <p class="text-gray-400">@ViewData["CardType"]</p>
+            </div>
+            <div class="flex flex-col text-center text-white">
+                <h5 class="font-semi-bold mb-3">Card Tier</h5>
+                <p class="text-gray-400">@ViewData["CardTier"]</p>
+            </div>
+            <div class="flex flex-col text-center text-white">
+                <h5 class="font-semi-bold mb-3">Credit Limit</h5>
+                <p class="text-gray-400">RM @ViewData["CreditLimit"]</p>
+            </div>
+            <div class="flex flex-col text-center text-white">
+                <h5 class="font-semi-bold mb-3">Interest Rate</h5>
+                <p class="text-gray-400">@ViewData["InterestRate"]%</p>
+            </div>
+            <div class="flex flex-col text-center text-white">
+                <h5 class="font-semi-bold mb-3">Annual Fee</h5>
+                <p class="text-gray-400">RM @ViewData["AnnualFee"]</p>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<div class="mb-8">
+    <div class="flex flex-col justify-center items-center mt-8 mb-6">
+        <h1 class="text-3xl font-bold text-gray-900 mb-8">
+            Application Credit Card Review
+        </h1>
+        <div class="border-b-2 border-blue-600 w-12 mb-6">
+        </div>
+    </div>
+
+    <div class="grid grid-cols-2 gap-4 mb-3 justify-center text-center items-center mb-8">
+        <div class="flex flex-col text-center">
+            <h5 class="font-bold mb-3">Full Name</h5>
+            <p class="text-gray-500">@Model.Fullname</p>
+        </div>
+        <div class="flex flex-col text-center">
+            <h5 class="font-bold mb-3">ID Card Number</h5>
+            <p class="text-gray-500">@ViewData["IDCardNumber"]</p>
+        </div>
+
+        <div class="flex flex-col text-center">
+            <h5 class="font-bold mb-3">Email</h5>
+            <p class="text-gray-500">@Model.Email</p>
+        </div>
+        <div class="flex flex-col text-center">
+            <h5 class="font-bold mb-3">Phone Number</h5>
+            <p class="text-gray-500">@Model.PhoneNumber</p>
+        </div>
+    </div>
+
+    <div class="flex flex-col text-center">
+        <h5 class="font-bold mb-3">Date Of Birth</h5>
+        <p class="text-gray-500">@ViewData["DateOfBirthDay"]</p>
+    </div>
+
+    <div class="grid grid-cols-2 gap-4 mb-3 justify-center text-center items-center mb-8">
+        <div class="flex flex-col text-center">
+            <h5 class="font-bold mb-3">Gender</h5>
+            <p class="text-gray-500">@ViewData["Gender"]</p>
+        </div>
+
+        <div class="flex flex-col text-center">
+            <h5 class="font-bold mb-3">Marital Status</h5>
+            <p class="text-gray-500">@ViewData["MaritalStatus"]</p>
+        </div>
+        <div class="flex flex-col text-center">
+            <h5 class="font-bold mb-3">City</h5>
+            <p class="text-gray-500">@ViewData["City"]</p>
+        </div>
+        <div class="flex flex-col text-center">
+            <h5 class="font-bold mb-3">Province</h5>
+            <p class="text-gray-500">@ViewData["Province"]</p>
+        </div>
+        <div class="flex flex-col text-center">
+            <h5 class="font-bold mb-3">Country</h5>
+            <p class="text-gray-500">@ViewData["Country"]</p>
+        </div>
+        <div class="flex flex-col text-center">
+            <h5 class="font-bold mb-3">Address</h5>
+            <p class="text-gray-500">@ViewData["Address"]</p>
+        </div>
+        <div class="flex flex-col text-center">
+            <h5 class="font-bold mb-3">Company Name</h5>
+            <p class="text-gray-500">@ViewData["CompanyName"]</p>
+        </div>
+        <div class="flex flex-col text-center">
+            <h5 class="font-bold mb-3">Position</h5>
+            <p class="text-gray-500">@ViewData["Position"]</p>
+        </div>
+        <div class="flex flex-col text-center">
+            <h5 class="font-bold mb-3">Income/Month</h5>
+            <p class="text-gray-500">RM @ViewData["Income"]</p>
+        </div>
+        <div class="flex flex-col text-center">
+            <h5 class="font-bold mb-3">Bank Account Number</h5>
+            <p class="text-gray-500">@ViewData["BankAccountNumber"]</p>
+        </div>
+    </div>
+    <div class="flex flex-col text-center">
+        <h5 class="font-bold mb-3">Scan ID</h5>
+        <p class="text-gray-500">@ViewData["ScanIDFileName"]</p>
+    </div>
+</div>
+
+
+<div class="flex justify-center mb-8">
+    <a href="/ApplyCard">
+        <button
+            class="text-white bg-gray-300 hover:bg-gray-800 focus:ring-4 focus:ring-gray-300 font-medium rounded-lg text-sm px-5 py-2.5 me-2 mb-2 dark:bg-gray-600 dark:hover:bg-gray-700 focus:outline-none dark:focus:ring-gray-800">Back</button>
+    </a>
+    <button onclick="confirmReview()"
+        class="text-white bg-green-300 hover:bg-green-800 focus:ring-4 focus:ring-green-300 font-medium rounded-lg text-sm px-5 py-2.5 me-2 mb-2 dark:bg-green-600 dark:hover:bg-green-700 focus:outline-none dark:focus:ring-green-800">Confirm</button>
+</div>
+
+<script>
+    async function confirmReview() {
+        const confirmation = await Swal.fire({
+            title: "Are You Sure,Data is Already Correct?",
+            showCancelButton: true,
+            confirmButtonText: "Confirm",
+        });
+
+        if (confirmation.isConfirmed) {
+            try {
+                const response = await fetch('/ApplyCard/ApplyCardRegister', {
+                    method: "POST",
+                });
+
+                console.log(response)
+
+                let result;
+                try {
+                    result = await response.json();
+                } catch (error) {
+                    result = { Message: "Error when Confirm Review Application: " + error };
+                }
+
+                if (response.ok) {
+                    await Swal.fire({
+                        icon: "success",
+                        title: "Application Credit Card Successfully",
+                        text: result.Message,
+                        timer: 3000,
+                        showConfirmButton: false
+                    }).then(() => {
+                        window.location.href = "/";
+                    });
+                } else {
+                    Swal.fire({
+                        icon: "error",
+                        title: "Application Credit Card Failed!",
+                        text: result.message || "Something went wrong when apply credit card.",
+                        timer: 3000
+                    }).then(() => {
+                        window.location.href = "/";
+                    });
+                }
+            } catch (error) {
+                Swal.fire({
+                    icon: "error",
+                    title: "Application Credit Card Error",
+                    text: "An error occurred while apply credit card.",
+                    timer: 3000
+                });
+            }
+        }
+    }
+</script>

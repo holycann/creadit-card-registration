@@ -1,0 +1,140 @@
+@model CC_Regist_System.ViewModels.RegisterViewModel;
+@using CC_Regist_System.Models.Users;
+@{
+    ViewData["Title"] = "Register";
+}
+
+<div class="flex flex-col justify-center align-center w-full h-full">
+    <div class="flex justify-between items-center mb-6">
+        <h1 class="text-3xl font-bold text-gray-900">
+            Create your Account
+        </h1>
+    </div>
+    <div class="border-b-2 border-blue-600 w-12 mb-6">
+    </div>
+    <form asp-controller="Auth" asp-action="UserRegister" method="post" id="RegistrationFrom">
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+            <div>
+                <label class="block text-gray-700 font-semibold mb-2">
+                    Username
+                </label>
+                <input class="w-full p-3 border border-gray-300 rounded-lg" placeholder="Please enter your Username"
+                    type="text" asp-for="Username" />
+                <span class="text-red-500" asp-validation-for="Username"></span>
+            </div>
+
+            <div>
+                <label class="block text-gray-700 font-semibold mb-2">
+                    Full Name
+                </label>
+                <input class="w-full p-3 border border-gray-300 rounded-lg" placeholder="Please enter your full name"
+                    type="text" asp-for="Fullname" />
+                <span class="text-red-500" asp-validation-for="Fullname"></span>
+            </div>
+
+            <div>
+                <label class="block text-gray-700 font-semibold mb-2">
+                    Email
+                </label>
+                <input class="w-full p-3 border border-gray-300 rounded-lg" placeholder="Email" type="email"
+                    asp-for="Email" />
+                <span class="text-red-500" asp-validation-for="Email"></span>
+            </div>
+
+            <div>
+                <label class="block text-gray-700 font-semibold mb-2">
+                    Phone number
+                </label>
+                <div>
+                    <input class="w-full p-3 border border-gray-300 rounded-lg"
+                        placeholder="Please enter your phone number" type="number" asp-for="PhoneNumber" />
+                    <span class="text-red-500" asp-validation-for="PhoneNumber"></span>
+                </div>
+            </div>
+
+            <div>
+                <label class="block text-gray-700 font-semibold mb-2">
+                    Password
+                </label>
+                <input class="w-full p-3 border border-gray-300 rounded-lg" placeholder="Please enter your password"
+                    type="password" asp-for="Password" />
+                <span class="text-red-500" asp-validation-for="Password"></span>
+            </div>
+
+            <div>
+                <label class="block text-gray-700 font-semibold mb-2">
+                    Confirm password
+                </label>
+                <input class="w-full p-3 border border-gray-300 rounded-lg" placeholder="Please enter your"
+                    type="password" asp-for="ConfirmPassword" />
+                <span class="text-red-500" asp-validation-for="ConfirmPassword"></span>
+            </div>
+        </div>
+
+        <div>
+            <div class="form-check d-flex justify-content-center align-items-center mb-5 mt-5">
+                <input asp-for="AgreeToTerms" class="form-check-input me-2" type="checkbox" required>
+                <span class="form-check-span" asp-validation-for="AgreeToTerms">
+                    By check this box you already read and must agree to the terms and conditions
+                </span>
+            </div>
+            <span asp-validation-for="AgreeToTerms" class="text-danger">
+            </span>
+        </div>
+
+        <div class="mt-8">
+            <button class="w-full bg-green-600 text-white p-3 rounded-lg flex items-center justify-center"
+                type="submit">
+                Register
+            </button>
+        </div>
+    </form>
+</div>
+
+<script>
+    document.addEventListener("DOMContentLoaded", function () {
+        const form = document.getElementById("RegistrationFrom");
+
+        form.addEventListener("submit", async function (event) {
+            event.preventDefault();
+
+            const formData = new FormData(form);
+            const response = await fetch(form.action, {
+                method: "POST",
+                body: formData
+            });
+
+            const result = await response.json();
+
+            if (response.ok) {
+                Swal.fire({
+                    icon: "success",
+                    title: "Registration Successful",
+                    text: result.message,
+                    timer: 3000,
+                    showConfirmButton: false
+                }).then(() => {
+                    window.location.href = "/auth/login";
+                });
+            } else {
+
+                Swal.fire({
+                    icon: "error",
+                    title: "Registration Failed",
+                    timer: 3000,
+                    text: result.message || result.message[0] || "Registration failed.",
+                });
+
+                return;
+            }
+        });
+    });
+</script>
+
+
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

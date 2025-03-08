@@ -1,0 +1,546 @@
+/home/holycan/Desktop/INTI-Collage/Web Application Development/CC_Regist_System/bin/Debug/net9.0/appsettings.Development.json
+/home/holycan/Desktop/INTI-Collage/Web Application Development/CC_Regist_System/bin/Debug/net9.0/appsettings.json
+/home/holycan/Desktop/INTI-Collage/Web Application Development/CC_Regist_System/bin/Debug/net9.0/CC_Regist_System.staticwebassets.runtime.json
+/home/holycan/Desktop/INTI-Collage/Web Application Development/CC_Regist_System/bin/Debug/net9.0/CC_Regist_System.staticwebassets.endpoints.json
+/home/holycan/Desktop/INTI-Collage/Web Application Development/CC_Regist_System/bin/Debug/net9.0/CC_Regist_System
+/home/holycan/Desktop/INTI-Collage/Web Application Development/CC_Regist_System/bin/Debug/net9.0/CC_Regist_System.deps.json
+/home/holycan/Desktop/INTI-Collage/Web Application Development/CC_Regist_System/bin/Debug/net9.0/CC_Regist_System.runtimeconfig.json
+/home/holycan/Desktop/INTI-Collage/Web Application Development/CC_Regist_System/bin/Debug/net9.0/CC_Regist_System.dll
+/home/holycan/Desktop/INTI-Collage/Web Application Development/CC_Regist_System/bin/Debug/net9.0/CC_Regist_System.pdb
+/home/holycan/Desktop/INTI-Collage/Web Application Development/CC_Regist_System/bin/Debug/net9.0/Azure.Core.dll
+/home/holycan/Desktop/INTI-Collage/Web Application Development/CC_Regist_System/bin/Debug/net9.0/Azure.Identity.dll
+/home/holycan/Desktop/INTI-Collage/Web Application Development/CC_Regist_System/bin/Debug/net9.0/BCrypt.Net-Next.dll
+/home/holycan/Desktop/INTI-Collage/Web Application Development/CC_Regist_System/bin/Debug/net9.0/Humanizer.dll
+/home/holycan/Desktop/INTI-Collage/Web Application Development/CC_Regist_System/bin/Debug/net9.0/Microsoft.Bcl.AsyncInterfaces.dll
+/home/holycan/Desktop/INTI-Collage/Web Application Development/CC_Regist_System/bin/Debug/net9.0/Microsoft.Build.Locator.dll
+/home/holycan/Desktop/INTI-Collage/Web Application Development/CC_Regist_System/bin/Debug/net9.0/Microsoft.CodeAnalysis.dll
+/home/holycan/Desktop/INTI-Collage/Web Application Development/CC_Regist_System/bin/Debug/net9.0/Microsoft.CodeAnalysis.CSharp.dll
+/home/holycan/Desktop/INTI-Collage/Web Application Development/CC_Regist_System/bin/Debug/net9.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/home/holycan/Desktop/INTI-Collage/Web Application Development/CC_Regist_System/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.dll
+/home/holycan/Desktop/INTI-Collage/Web Application Development/CC_Regist_System/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+/home/holycan/Desktop/INTI-Collage/Web Application Development/CC_Regist_System/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+/home/holycan/Desktop/INTI-Collage/Web Application Development/CC_Regist_System/bin/Debug/net9.0/Microsoft.Data.SqlClient.dll
+/home/holycan/Desktop/INTI-Collage/Web Application Development/CC_Regist_System/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.dll
+/home/holycan/Desktop/INTI-Collage/Web Application Development/CC_Regist_System/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/holycan/Desktop/INTI-Collage/Web Application Development/CC_Regist_System/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/holycan/Desktop/INTI-Collage/Web Application Development/CC_Regist_System/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/holycan/Desktop/INTI-Collage/Web Application Development/CC_Regist_System/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/home/holycan/Desktop/INTI-Collage/Web Application Development/CC_Regist_System/bin/Debug/net9.0/Microsoft.Extensions.DependencyModel.dll
+/home/holycan/Desktop/INTI-Collage/Web Application Development/CC_Regist_System/bin/Debug/net9.0/Microsoft.Identity.Client.dll
+/home/holycan/Desktop/INTI-Collage/Web Application Development/CC_Regist_System/bin/Debug/net9.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/home/holycan/Desktop/INTI-Collage/Web Application Development/CC_Regist_System/bin/Debug/net9.0/Microsoft.IdentityModel.Abstractions.dll
+/home/holycan/Desktop/INTI-Collage/Web Application Development/CC_Regist_System/bin/Debug/net9.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/home/holycan/Desktop/INTI-Collage/Web Application Development/CC_Regist_System/bin/Debug/net9.0/Microsoft.IdentityModel.Logging.dll
+/home/holycan/Desktop/INTI-Collage/Web Application Development/CC_Regist_System/bin/Debug/net9.0/Microsoft.IdentityModel.Protocols.dll
+/home/holycan/Desktop/INTI-Collage/Web Application Development/CC_Regist_System/bin/Debug/net9.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/home/holycan/Desktop/INTI-Collage/Web Application Development/CC_Regist_System/bin/Debug/net9.0/Microsoft.IdentityModel.Tokens.dll
+/home/holycan/Desktop/INTI-Collage/Web Application Development/CC_Regist_System/bin/Debug/net9.0/Microsoft.SqlServer.Server.dll
+/home/holycan/Desktop/INTI-Collage/Web Application Development/CC_Regist_System/bin/Debug/net9.0/Microsoft.Win32.SystemEvents.dll
+/home/holycan/Desktop/INTI-Collage/Web Application Development/CC_Regist_System/bin/Debug/net9.0/Mono.TextTemplating.dll
+/home/holycan/Desktop/INTI-Collage/Web Application Development/CC_Regist_System/bin/Debug/net9.0/Npgsql.dll
+/home/holycan/Desktop/INTI-Collage/Web Application Development/CC_Regist_System/bin/Debug/net9.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/home/holycan/Desktop/INTI-Collage/Web Application Development/CC_Regist_System/bin/Debug/net9.0/System.ClientModel.dll
+/home/holycan/Desktop/INTI-Collage/Web Application Development/CC_Regist_System/bin/Debug/net9.0/System.CodeDom.dll
+/home/holycan/Desktop/INTI-Collage/Web Application Development/CC_Regist_System/bin/Debug/net9.0/System.Composition.AttributedModel.dll
+/home/holycan/Desktop/INTI-Collage/Web Application Development/CC_Regist_System/bin/Debug/net9.0/System.Composition.Convention.dll
+/home/holycan/Desktop/INTI-Collage/Web Application Development/CC_Regist_System/bin/Debug/net9.0/System.Composition.Hosting.dll
+/home/holycan/Desktop/INTI-Collage/Web Application Development/CC_Regist_System/bin/Debug/net9.0/System.Composition.Runtime.dll
+/home/holycan/Desktop/INTI-Collage/Web Application Development/CC_Regist_System/bin/Debug/net9.0/System.Composition.TypedParts.dll
+/home/holycan/Desktop/INTI-Collage/Web Application Development/CC_Regist_System/bin/Debug/net9.0/System.Configuration.ConfigurationManager.dll
+/home/holycan/Desktop/INTI-Collage/Web Application Development/CC_Regist_System/bin/Debug/net9.0/System.Drawing.Common.dll
+/home/holycan/Desktop/INTI-Collage/Web Application Development/CC_Regist_System/bin/Debug/net9.0/System.IdentityModel.Tokens.Jwt.dll
+/home/holycan/Desktop/INTI-Collage/Web Application Development/CC_Regist_System/bin/Debug/net9.0/System.Memory.Data.dll
+/home/holycan/Desktop/INTI-Collage/Web Application Development/CC_Regist_System/bin/Debug/net9.0/System.Runtime.Caching.dll
+/home/holycan/Desktop/INTI-Collage/Web Application Development/CC_Regist_System/bin/Debug/net9.0/System.Security.Cryptography.ProtectedData.dll
+/home/holycan/Desktop/INTI-Collage/Web Application Development/CC_Regist_System/bin/Debug/net9.0/System.Security.Permissions.dll
+/home/holycan/Desktop/INTI-Collage/Web Application Development/CC_Regist_System/bin/Debug/net9.0/System.Windows.Extensions.dll
+/home/holycan/Desktop/INTI-Collage/Web Application Development/CC_Regist_System/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.resources.dll
+/home/holycan/Desktop/INTI-Collage/Web Application Development/CC_Regist_System/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.resources.dll
+/home/holycan/Desktop/INTI-Collage/Web Application Development/CC_Regist_System/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.resources.dll
+/home/holycan/Desktop/INTI-Collage/Web Application Development/CC_Regist_System/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.resources.dll
+/home/holycan/Desktop/INTI-Collage/Web Application Development/CC_Regist_System/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.resources.dll
+/home/holycan/Desktop/INTI-Collage/Web Application Development/CC_Regist_System/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.resources.dll
+/home/holycan/Desktop/INTI-Collage/Web Application Development/CC_Regist_System/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.resources.dll
+/home/holycan/Desktop/INTI-Collage/Web Application Development/CC_Regist_System/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.resources.dll
+/home/holycan/Desktop/INTI-Collage/Web Application Development/CC_Regist_System/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/home/holycan/Desktop/INTI-Collage/Web Application Development/CC_Regist_System/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.resources.dll
+/home/holycan/Desktop/INTI-Collage/Web Application Development/CC_Regist_System/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.resources.dll
+/home/holycan/Desktop/INTI-Collage/Web Application Development/CC_Regist_System/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/home/holycan/Desktop/INTI-Collage/Web Application Development/CC_Regist_System/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/home/holycan/Desktop/INTI-Collage/Web Application Development/CC_Regist_System/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/holycan/Desktop/INTI-Collage/Web Application Development/CC_Regist_System/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/holycan/Desktop/INTI-Collage/Web Application Development/CC_Regist_System/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/holycan/Desktop/INTI-Collage/Web Application Development/CC_Regist_System/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/holycan/Desktop/INTI-Collage/Web Application Development/CC_Regist_System/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/holycan/Desktop/INTI-Collage/Web Application Development/CC_Regist_System/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/holycan/Desktop/INTI-Collage/Web Application Development/CC_Regist_System/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/holycan/Desktop/INTI-Collage/Web Application Development/CC_Regist_System/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/holycan/Desktop/INTI-Collage/Web Application Development/CC_Regist_System/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/holycan/Desktop/INTI-Collage/Web Application Development/CC_Regist_System/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/holycan/Desktop/INTI-Collage/Web Application Development/CC_Regist_System/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/holycan/Desktop/INTI-Collage/Web Application Development/CC_Regist_System/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/holycan/Desktop/INTI-Collage/Web Application Development/CC_Regist_System/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/holycan/Desktop/INTI-Collage/Web Application Development/CC_Regist_System/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/holycan/Desktop/INTI-Collage/Web Application Development/CC_Regist_System/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/holycan/Desktop/INTI-Collage/Web Application Development/CC_Regist_System/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/holycan/Desktop/INTI-Collage/Web Application Development/CC_Regist_System/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/holycan/Desktop/INTI-Collage/Web Application Development/CC_Regist_System/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/holycan/Desktop/INTI-Collage/Web Application Development/CC_Regist_System/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/holycan/Desktop/INTI-Collage/Web Application Development/CC_Regist_System/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/holycan/Desktop/INTI-Collage/Web Application Development/CC_Regist_System/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/holycan/Desktop/INTI-Collage/Web Application Development/CC_Regist_System/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/holycan/Desktop/INTI-Collage/Web Application Development/CC_Regist_System/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/holycan/Desktop/INTI-Collage/Web Application Development/CC_Regist_System/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/holycan/Desktop/INTI-Collage/Web Application Development/CC_Regist_System/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/holycan/Desktop/INTI-Collage/Web Application Development/CC_Regist_System/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/holycan/Desktop/INTI-Collage/Web Application Development/CC_Regist_System/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/holycan/Desktop/INTI-Collage/Web Application Development/CC_Regist_System/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/holycan/Desktop/INTI-Collage/Web Application Development/CC_Regist_System/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/holycan/Desktop/INTI-Collage/Web Application Development/CC_Regist_System/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/holycan/Desktop/INTI-Collage/Web Application Development/CC_Regist_System/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/holycan/Desktop/INTI-Collage/Web Application Development/CC_Regist_System/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/holycan/Desktop/INTI-Collage/Web Application Development/CC_Regist_System/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/holycan/Desktop/INTI-Collage/Web Application Development/CC_Regist_System/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/holycan/Desktop/INTI-Collage/Web Application Development/CC_Regist_System/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/holycan/Desktop/INTI-Collage/Web Application Development/CC_Regist_System/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/holycan/Desktop/INTI-Collage/Web Application Development/CC_Regist_System/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/holycan/Desktop/INTI-Collage/Web Application Development/CC_Regist_System/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/holycan/Desktop/INTI-Collage/Web Application Development/CC_Regist_System/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/holycan/Desktop/INTI-Collage/Web Application Development/CC_Regist_System/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/holycan/Desktop/INTI-Collage/Web Application Development/CC_Regist_System/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/holycan/Desktop/INTI-Collage/Web Application Development/CC_Regist_System/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/holycan/Desktop/INTI-Collage/Web Application Development/CC_Regist_System/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/holycan/Desktop/INTI-Collage/Web Application Development/CC_Regist_System/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/holycan/Desktop/INTI-Collage/Web Application Development/CC_Regist_System/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/holycan/Desktop/INTI-Collage/Web Application Development/CC_Regist_System/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/holycan/Desktop/INTI-Collage/Web Application Development/CC_Regist_System/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/holycan/Desktop/INTI-Collage/Web Application Development/CC_Regist_System/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/holycan/Desktop/INTI-Collage/Web Application Development/CC_Regist_System/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/holycan/Desktop/INTI-Collage/Web Application Development/CC_Regist_System/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/holycan/Desktop/INTI-Collage/Web Application Development/CC_Regist_System/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/holycan/Desktop/INTI-Collage/Web Application Development/CC_Regist_System/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/holycan/Desktop/INTI-Collage/Web Application Development/CC_Regist_System/bin/Debug/net9.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+/home/holycan/Desktop/INTI-Collage/Web Application Development/CC_Regist_System/bin/Debug/net9.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+/home/holycan/Desktop/INTI-Collage/Web Application Development/CC_Regist_System/bin/Debug/net9.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/home/holycan/Desktop/INTI-Collage/Web Application Development/CC_Regist_System/bin/Debug/net9.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/home/holycan/Desktop/INTI-Collage/Web Application Development/CC_Regist_System/bin/Debug/net9.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/home/holycan/Desktop/INTI-Collage/Web Application Development/CC_Regist_System/bin/Debug/net9.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/home/holycan/Desktop/INTI-Collage/Web Application Development/CC_Regist_System/bin/Debug/net9.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/home/holycan/Desktop/INTI-Collage/Web Application Development/CC_Regist_System/bin/Debug/net9.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/home/holycan/Desktop/INTI-Collage/Web Application Development/CC_Regist_System/bin/Debug/net9.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/home/holycan/Desktop/INTI-Collage/Web Application Development/CC_Regist_System/bin/Debug/net9.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+/home/holycan/Desktop/INTI-Collage/Web Application Development/CC_Regist_System/bin/Debug/net9.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/home/holycan/Desktop/INTI-Collage/Web Application Development/CC_Regist_System/bin/Debug/net9.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/home/holycan/Desktop/INTI-Collage/Web Application Development/CC_Regist_System/obj/Debug/net9.0/CC_Regist_System.csproj.AssemblyReference.cache
+/home/holycan/Desktop/INTI-Collage/Web Application Development/CC_Regist_System/obj/Debug/net9.0/CC_Regist_System.GeneratedMSBuildEditorConfig.editorconfig
+/home/holycan/Desktop/INTI-Collage/Web Application Development/CC_Regist_System/obj/Debug/net9.0/CC_Regist_System.AssemblyInfoInputs.cache
+/home/holycan/Desktop/INTI-Collage/Web Application Development/CC_Regist_System/obj/Debug/net9.0/CC_Regist_System.AssemblyInfo.cs
+/home/holycan/Desktop/INTI-Collage/Web Application Development/CC_Regist_System/obj/Debug/net9.0/CC_Regist_System.csproj.CoreCompileInputs.cache
+/home/holycan/Desktop/INTI-Collage/Web Application Development/CC_Regist_System/obj/Debug/net9.0/CC_Regist_System.MvcApplicationPartsAssemblyInfo.cache
+/home/holycan/Desktop/INTI-Collage/Web Application Development/CC_Regist_System/obj/Debug/net9.0/CC_Regist_System.RazorAssemblyInfo.cache
+/home/holycan/Desktop/INTI-Collage/Web Application Development/CC_Regist_System/obj/Debug/net9.0/CC_Regist_System.RazorAssemblyInfo.cs
+/home/holycan/Desktop/INTI-Collage/Web Application Development/CC_Regist_System/obj/Debug/net9.0/scopedcss/bundle/CC_Regist_System.styles.css
+/home/holycan/Desktop/INTI-Collage/Web Application Development/CC_Regist_System/obj/Debug/net9.0/compressed/mdx2lr2hsx-p5sjivdeeh.gz
+/home/holycan/Desktop/INTI-Collage/Web Application Development/CC_Regist_System/obj/Debug/net9.0/compressed/r5mbgfsfmg-hft1x52tgw.gz
+/home/holycan/Desktop/INTI-Collage/Web Application Development/CC_Regist_System/obj/Debug/net9.0/compressed/86acwlvj4s-61n19gt1b8.gz
+/home/holycan/Desktop/INTI-Collage/Web Application Development/CC_Regist_System/obj/Debug/net9.0/compressed/qjjdwb03tu-uq5asguxgg.gz
+/home/holycan/Desktop/INTI-Collage/Web Application Development/CC_Regist_System/obj/Debug/net9.0/compressed/fk9mc8b2go-47otxtyo56.gz
+/home/holycan/Desktop/INTI-Collage/Web Application Development/CC_Regist_System/obj/Debug/net9.0/compressed/asnbqg4ojt-4v8eqarkd7.gz
+/home/holycan/Desktop/INTI-Collage/Web Application Development/CC_Regist_System/obj/Debug/net9.0/compressed/az0saj7jyp-l3n5xuwxn8.gz
+/home/holycan/Desktop/INTI-Collage/Web Application Development/CC_Regist_System/obj/Debug/net9.0/compressed/4m3sc5eaot-ilo7uva0vt.gz
+/home/holycan/Desktop/INTI-Collage/Web Application Development/CC_Regist_System/obj/Debug/net9.0/compressed/tzj8hc40gr-qlccset4i1.gz
+/home/holycan/Desktop/INTI-Collage/Web Application Development/CC_Regist_System/obj/Debug/net9.0/compressed/d2spyo7c4c-lzl9nlhx6b.gz
+/home/holycan/Desktop/INTI-Collage/Web Application Development/CC_Regist_System/obj/Debug/net9.0/compressed/589pp0n5pe-ag7o75518u.gz
+/home/holycan/Desktop/INTI-Collage/Web Application Development/CC_Regist_System/obj/Debug/net9.0/compressed/t7n3k18yr7-xzw0cte36n.gz
+/home/holycan/Desktop/INTI-Collage/Web Application Development/CC_Regist_System/obj/Debug/net9.0/compressed/a1n61ql5tk-0i3buxo5is.gz
+/home/holycan/Desktop/INTI-Collage/Web Application Development/CC_Regist_System/obj/Debug/net9.0/compressed/agjdz2yjvv-o1o13a6vjx.gz
+/home/holycan/Desktop/INTI-Collage/Web Application Development/CC_Regist_System/obj/Debug/net9.0/compressed/k23xh58r20-ttgo8qnofa.gz
+/home/holycan/Desktop/INTI-Collage/Web Application Development/CC_Regist_System/obj/Debug/net9.0/compressed/nsjsudxuzu-2z0ns9nrw6.gz
+/home/holycan/Desktop/INTI-Collage/Web Application Development/CC_Regist_System/obj/Debug/net9.0/compressed/qmabk6vp4u-muycvpuwrr.gz
+/home/holycan/Desktop/INTI-Collage/Web Application Development/CC_Regist_System/obj/Debug/net9.0/compressed/dbc2ta3xtu-87fc7y1x7t.gz
+/home/holycan/Desktop/INTI-Collage/Web Application Development/CC_Regist_System/obj/Debug/net9.0/compressed/u1m8apy9f2-jfsiqqwiad.gz
+/home/holycan/Desktop/INTI-Collage/Web Application Development/CC_Regist_System/obj/Debug/net9.0/staticwebassets.build.json
+/home/holycan/Desktop/INTI-Collage/Web Application Development/CC_Regist_System/obj/Debug/net9.0/staticwebassets.development.json
+/home/holycan/Desktop/INTI-Collage/Web Application Development/CC_Regist_System/obj/Debug/net9.0/staticwebassets.build.endpoints.json
+/home/holycan/Desktop/INTI-Collage/Web Application Development/CC_Regist_System/obj/Debug/net9.0/staticwebassets/msbuild.CC_Regist_System.Microsoft.AspNetCore.StaticWebAssets.props
+/home/holycan/Desktop/INTI-Collage/Web Application Development/CC_Regist_System/obj/Debug/net9.0/staticwebassets/msbuild.CC_Regist_System.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+/home/holycan/Desktop/INTI-Collage/Web Application Development/CC_Regist_System/obj/Debug/net9.0/staticwebassets/msbuild.build.CC_Regist_System.props
+/home/holycan/Desktop/INTI-Collage/Web Application Development/CC_Regist_System/obj/Debug/net9.0/staticwebassets/msbuild.buildMultiTargeting.CC_Regist_System.props
+/home/holycan/Desktop/INTI-Collage/Web Application Development/CC_Regist_System/obj/Debug/net9.0/staticwebassets/msbuild.buildTransitive.CC_Regist_System.props
+/home/holycan/Desktop/INTI-Collage/Web Application Development/CC_Regist_System/obj/Debug/net9.0/staticwebassets.pack.json
+/home/holycan/Desktop/INTI-Collage/Web Application Development/CC_Regist_System/obj/Debug/net9.0/CC_Regis.47E3A993.Up2Date
+/home/holycan/Desktop/INTI-Collage/Web Application Development/CC_Regist_System/obj/Debug/net9.0/CC_Regist_System.dll
+/home/holycan/Desktop/INTI-Collage/Web Application Development/CC_Regist_System/obj/Debug/net9.0/refint/CC_Regist_System.dll
+/home/holycan/Desktop/INTI-Collage/Web Application Development/CC_Regist_System/obj/Debug/net9.0/CC_Regist_System.pdb
+/home/holycan/Desktop/INTI-Collage/Web Application Development/CC_Regist_System/obj/Debug/net9.0/CC_Regist_System.genruntimeconfig.cache
+/home/holycan/Desktop/INTI-Collage/Web Application Development/CC_Regist_System/obj/Debug/net9.0/ref/CC_Regist_System.dll
+/home/holycan/Desktop/INTI-Collage/Web Application Development/CC_Regist_System/obj/Debug/net9.0/CC_Regist_System.sourcelink.json
+E:/INTI-Collage/Web Application Development/CC_Regist_System/obj/Debug/net9.0/CC_Regist_System.csproj.AssemblyReference.cache
+E:/INTI-Collage/Web Application Development/CC_Regist_System/obj/Debug/net9.0/CC_Regist_System.GeneratedMSBuildEditorConfig.editorconfig
+E:/INTI-Collage/Web Application Development/CC_Regist_System/obj/Debug/net9.0/CC_Regist_System.AssemblyInfoInputs.cache
+E:/INTI-Collage/Web Application Development/CC_Regist_System/obj/Debug/net9.0/CC_Regist_System.AssemblyInfo.cs
+E:/INTI-Collage/Web Application Development/CC_Regist_System/obj/Debug/net9.0/CC_Regist_System.csproj.CoreCompileInputs.cache
+E:/INTI-Collage/Web Application Development/CC_Regist_System/obj/Debug/net9.0/CC_Regist_System.MvcApplicationPartsAssemblyInfo.cache
+E:/INTI-Collage/Web Application Development/CC_Regist_System/obj/Debug/net9.0/CC_Regist_System.RazorAssemblyInfo.cache
+E:/INTI-Collage/Web Application Development/CC_Regist_System/obj/Debug/net9.0/CC_Regist_System.RazorAssemblyInfo.cs
+E:/INTI-Collage/Web Application Development/CC_Regist_System/obj/Debug/net9.0/CC_Regist_System.sourcelink.json
+E:/INTI-Collage/Web Application Development/CC_Regist_System/bin/Debug/net9.0/appsettings.Development.json
+E:/INTI-Collage/Web Application Development/CC_Regist_System/bin/Debug/net9.0/appsettings.json
+E:/INTI-Collage/Web Application Development/CC_Regist_System/bin/Debug/net9.0/CC_Regist_System.staticwebassets.runtime.json
+E:/INTI-Collage/Web Application Development/CC_Regist_System/bin/Debug/net9.0/CC_Regist_System.staticwebassets.endpoints.json
+E:/INTI-Collage/Web Application Development/CC_Regist_System/bin/Debug/net9.0/CC_Regist_System.exe
+E:/INTI-Collage/Web Application Development/CC_Regist_System/bin/Debug/net9.0/CC_Regist_System.deps.json
+E:/INTI-Collage/Web Application Development/CC_Regist_System/bin/Debug/net9.0/CC_Regist_System.runtimeconfig.json
+E:/INTI-Collage/Web Application Development/CC_Regist_System/bin/Debug/net9.0/CC_Regist_System.dll
+E:/INTI-Collage/Web Application Development/CC_Regist_System/bin/Debug/net9.0/CC_Regist_System.pdb
+E:/INTI-Collage/Web Application Development/CC_Regist_System/bin/Debug/net9.0/BCrypt.Net-Next.dll
+E:/INTI-Collage/Web Application Development/CC_Regist_System/bin/Debug/net9.0/Humanizer.dll
+E:/INTI-Collage/Web Application Development/CC_Regist_System/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.dll
+E:/INTI-Collage/Web Application Development/CC_Regist_System/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+E:/INTI-Collage/Web Application Development/CC_Regist_System/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Design.dll
+E:/INTI-Collage/Web Application Development/CC_Regist_System/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Relational.dll
+E:/INTI-Collage/Web Application Development/CC_Regist_System/bin/Debug/net9.0/Microsoft.Extensions.DependencyModel.dll
+E:/INTI-Collage/Web Application Development/CC_Regist_System/bin/Debug/net9.0/Mono.TextTemplating.dll
+E:/INTI-Collage/Web Application Development/CC_Regist_System/bin/Debug/net9.0/MySqlConnector.dll
+E:/INTI-Collage/Web Application Development/CC_Regist_System/bin/Debug/net9.0/Pomelo.EntityFrameworkCore.MySql.dll
+E:/INTI-Collage/Web Application Development/CC_Regist_System/bin/Debug/net9.0/System.CodeDom.dll
+E:/INTI-Collage/Web Application Development/CC_Regist_System/obj/Debug/net9.0/scopedcss/bundle/CC_Regist_System.styles.css
+E:/INTI-Collage/Web Application Development/CC_Regist_System/obj/Debug/net9.0/compressed/mdx2lr2hsx-p5sjivdeeh.gz
+E:/INTI-Collage/Web Application Development/CC_Regist_System/obj/Debug/net9.0/compressed/r5mbgfsfmg-hft1x52tgw.gz
+E:/INTI-Collage/Web Application Development/CC_Regist_System/obj/Debug/net9.0/compressed/86acwlvj4s-61n19gt1b8.gz
+E:/INTI-Collage/Web Application Development/CC_Regist_System/obj/Debug/net9.0/compressed/fk9mc8b2go-47otxtyo56.gz
+E:/INTI-Collage/Web Application Development/CC_Regist_System/obj/Debug/net9.0/compressed/asnbqg4ojt-4v8eqarkd7.gz
+E:/INTI-Collage/Web Application Development/CC_Regist_System/obj/Debug/net9.0/compressed/az0saj7jyp-l3n5xuwxn8.gz
+E:/INTI-Collage/Web Application Development/CC_Regist_System/obj/Debug/net9.0/compressed/4m3sc5eaot-ilo7uva0vt.gz
+E:/INTI-Collage/Web Application Development/CC_Regist_System/obj/Debug/net9.0/compressed/tzj8hc40gr-qlccset4i1.gz
+E:/INTI-Collage/Web Application Development/CC_Regist_System/obj/Debug/net9.0/compressed/d2spyo7c4c-lzl9nlhx6b.gz
+E:/INTI-Collage/Web Application Development/CC_Regist_System/obj/Debug/net9.0/compressed/589pp0n5pe-ag7o75518u.gz
+E:/INTI-Collage/Web Application Development/CC_Regist_System/obj/Debug/net9.0/compressed/t7n3k18yr7-xzw0cte36n.gz
+E:/INTI-Collage/Web Application Development/CC_Regist_System/obj/Debug/net9.0/compressed/a1n61ql5tk-0i3buxo5is.gz
+E:/INTI-Collage/Web Application Development/CC_Regist_System/obj/Debug/net9.0/compressed/agjdz2yjvv-o1o13a6vjx.gz
+E:/INTI-Collage/Web Application Development/CC_Regist_System/obj/Debug/net9.0/compressed/k23xh58r20-ttgo8qnofa.gz
+E:/INTI-Collage/Web Application Development/CC_Regist_System/obj/Debug/net9.0/compressed/nsjsudxuzu-2z0ns9nrw6.gz
+E:/INTI-Collage/Web Application Development/CC_Regist_System/obj/Debug/net9.0/compressed/qmabk6vp4u-muycvpuwrr.gz
+E:/INTI-Collage/Web Application Development/CC_Regist_System/obj/Debug/net9.0/compressed/dbc2ta3xtu-87fc7y1x7t.gz
+E:/INTI-Collage/Web Application Development/CC_Regist_System/obj/Debug/net9.0/compressed/u1m8apy9f2-jfsiqqwiad.gz
+E:/INTI-Collage/Web Application Development/CC_Regist_System/obj/Debug/net9.0/staticwebassets.build.json
+E:/INTI-Collage/Web Application Development/CC_Regist_System/obj/Debug/net9.0/staticwebassets.development.json
+E:/INTI-Collage/Web Application Development/CC_Regist_System/obj/Debug/net9.0/staticwebassets.build.endpoints.json
+E:/INTI-Collage/Web Application Development/CC_Regist_System/obj/Debug/net9.0/staticwebassets/msbuild.CC_Regist_System.Microsoft.AspNetCore.StaticWebAssets.props
+E:/INTI-Collage/Web Application Development/CC_Regist_System/obj/Debug/net9.0/staticwebassets/msbuild.CC_Regist_System.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+E:/INTI-Collage/Web Application Development/CC_Regist_System/obj/Debug/net9.0/staticwebassets/msbuild.build.CC_Regist_System.props
+E:/INTI-Collage/Web Application Development/CC_Regist_System/obj/Debug/net9.0/staticwebassets/msbuild.buildMultiTargeting.CC_Regist_System.props
+E:/INTI-Collage/Web Application Development/CC_Regist_System/obj/Debug/net9.0/staticwebassets/msbuild.buildTransitive.CC_Regist_System.props
+E:/INTI-Collage/Web Application Development/CC_Regist_System/obj/Debug/net9.0/staticwebassets.pack.json
+E:/INTI-Collage/Web Application Development/CC_Regist_System/obj/Debug/net9.0/CC_Regis.47E3A993.Up2Date
+E:/INTI-Collage/Web Application Development/CC_Regist_System/obj/Debug/net9.0/CC_Regist_System.dll
+E:/INTI-Collage/Web Application Development/CC_Regist_System/obj/Debug/net9.0/refint/CC_Regist_System.dll
+E:/INTI-Collage/Web Application Development/CC_Regist_System/obj/Debug/net9.0/CC_Regist_System.pdb
+E:/INTI-Collage/Web Application Development/CC_Regist_System/obj/Debug/net9.0/CC_Regist_System.genruntimeconfig.cache
+E:/INTI-Collage/Web Application Development/CC_Regist_System/obj/Debug/net9.0/ref/CC_Regist_System.dll
+E:/INTI-Collage/Web Application Development/CC_Regist_System/obj/Debug/net9.0/staticwebassets.upToDateCheck.txt
+E:/INTI-Collage/Web Application Development/CC_Regist_System/obj/Debug/net9.0/compressed/qjjdwb03tu-8iy9yo60eh.gz
+/media/holycan/Data/INTI-Collage/Web Application Development/CC_Regist_System/bin/Debug/net9.0/appsettings.Development.json
+/media/holycan/Data/INTI-Collage/Web Application Development/CC_Regist_System/bin/Debug/net9.0/appsettings.json
+/media/holycan/Data/INTI-Collage/Web Application Development/CC_Regist_System/bin/Debug/net9.0/CC_Regist_System.staticwebassets.runtime.json
+/media/holycan/Data/INTI-Collage/Web Application Development/CC_Regist_System/bin/Debug/net9.0/CC_Regist_System.staticwebassets.endpoints.json
+/media/holycan/Data/INTI-Collage/Web Application Development/CC_Regist_System/bin/Debug/net9.0/CC_Regist_System
+/media/holycan/Data/INTI-Collage/Web Application Development/CC_Regist_System/bin/Debug/net9.0/CC_Regist_System.deps.json
+/media/holycan/Data/INTI-Collage/Web Application Development/CC_Regist_System/bin/Debug/net9.0/CC_Regist_System.runtimeconfig.json
+/media/holycan/Data/INTI-Collage/Web Application Development/CC_Regist_System/bin/Debug/net9.0/CC_Regist_System.dll
+/media/holycan/Data/INTI-Collage/Web Application Development/CC_Regist_System/bin/Debug/net9.0/CC_Regist_System.pdb
+/media/holycan/Data/INTI-Collage/Web Application Development/CC_Regist_System/bin/Debug/net9.0/BCrypt.Net-Next.dll
+/media/holycan/Data/INTI-Collage/Web Application Development/CC_Regist_System/bin/Debug/net9.0/Humanizer.dll
+/media/holycan/Data/INTI-Collage/Web Application Development/CC_Regist_System/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.dll
+/media/holycan/Data/INTI-Collage/Web Application Development/CC_Regist_System/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/media/holycan/Data/INTI-Collage/Web Application Development/CC_Regist_System/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Design.dll
+/media/holycan/Data/INTI-Collage/Web Application Development/CC_Regist_System/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Relational.dll
+/media/holycan/Data/INTI-Collage/Web Application Development/CC_Regist_System/bin/Debug/net9.0/Microsoft.Extensions.DependencyModel.dll
+/media/holycan/Data/INTI-Collage/Web Application Development/CC_Regist_System/bin/Debug/net9.0/Mono.TextTemplating.dll
+/media/holycan/Data/INTI-Collage/Web Application Development/CC_Regist_System/bin/Debug/net9.0/MySqlConnector.dll
+/media/holycan/Data/INTI-Collage/Web Application Development/CC_Regist_System/bin/Debug/net9.0/Pomelo.EntityFrameworkCore.MySql.dll
+/media/holycan/Data/INTI-Collage/Web Application Development/CC_Regist_System/bin/Debug/net9.0/System.CodeDom.dll
+/media/holycan/Data/INTI-Collage/Web Application Development/CC_Regist_System/obj/Debug/net9.0/CC_Regist_System.csproj.AssemblyReference.cache
+/media/holycan/Data/INTI-Collage/Web Application Development/CC_Regist_System/obj/Debug/net9.0/CC_Regist_System.GeneratedMSBuildEditorConfig.editorconfig
+/media/holycan/Data/INTI-Collage/Web Application Development/CC_Regist_System/obj/Debug/net9.0/CC_Regist_System.AssemblyInfoInputs.cache
+/media/holycan/Data/INTI-Collage/Web Application Development/CC_Regist_System/obj/Debug/net9.0/CC_Regist_System.AssemblyInfo.cs
+/media/holycan/Data/INTI-Collage/Web Application Development/CC_Regist_System/obj/Debug/net9.0/CC_Regist_System.csproj.CoreCompileInputs.cache
+/media/holycan/Data/INTI-Collage/Web Application Development/CC_Regist_System/obj/Debug/net9.0/CC_Regist_System.MvcApplicationPartsAssemblyInfo.cache
+/media/holycan/Data/INTI-Collage/Web Application Development/CC_Regist_System/obj/Debug/net9.0/CC_Regist_System.RazorAssemblyInfo.cache
+/media/holycan/Data/INTI-Collage/Web Application Development/CC_Regist_System/obj/Debug/net9.0/CC_Regist_System.RazorAssemblyInfo.cs
+/media/holycan/Data/INTI-Collage/Web Application Development/CC_Regist_System/obj/Debug/net9.0/CC_Regist_System.sourcelink.json
+/media/holycan/Data/INTI-Collage/Web Application Development/CC_Regist_System/obj/Debug/net9.0/scopedcss/bundle/CC_Regist_System.styles.css
+/media/holycan/Data/INTI-Collage/Web Application Development/CC_Regist_System/obj/Debug/net9.0/compressed/mdx2lr2hsx-p5sjivdeeh.gz
+/media/holycan/Data/INTI-Collage/Web Application Development/CC_Regist_System/obj/Debug/net9.0/compressed/r5mbgfsfmg-hft1x52tgw.gz
+/media/holycan/Data/INTI-Collage/Web Application Development/CC_Regist_System/obj/Debug/net9.0/compressed/86acwlvj4s-61n19gt1b8.gz
+/media/holycan/Data/INTI-Collage/Web Application Development/CC_Regist_System/obj/Debug/net9.0/compressed/qjjdwb03tu-8iy9yo60eh.gz
+/media/holycan/Data/INTI-Collage/Web Application Development/CC_Regist_System/obj/Debug/net9.0/compressed/fk9mc8b2go-47otxtyo56.gz
+/media/holycan/Data/INTI-Collage/Web Application Development/CC_Regist_System/obj/Debug/net9.0/compressed/asnbqg4ojt-4v8eqarkd7.gz
+/media/holycan/Data/INTI-Collage/Web Application Development/CC_Regist_System/obj/Debug/net9.0/compressed/az0saj7jyp-l3n5xuwxn8.gz
+/media/holycan/Data/INTI-Collage/Web Application Development/CC_Regist_System/obj/Debug/net9.0/compressed/4m3sc5eaot-ilo7uva0vt.gz
+/media/holycan/Data/INTI-Collage/Web Application Development/CC_Regist_System/obj/Debug/net9.0/compressed/tzj8hc40gr-qlccset4i1.gz
+/media/holycan/Data/INTI-Collage/Web Application Development/CC_Regist_System/obj/Debug/net9.0/compressed/d2spyo7c4c-lzl9nlhx6b.gz
+/media/holycan/Data/INTI-Collage/Web Application Development/CC_Regist_System/obj/Debug/net9.0/compressed/589pp0n5pe-ag7o75518u.gz
+/media/holycan/Data/INTI-Collage/Web Application Development/CC_Regist_System/obj/Debug/net9.0/compressed/t7n3k18yr7-xzw0cte36n.gz
+/media/holycan/Data/INTI-Collage/Web Application Development/CC_Regist_System/obj/Debug/net9.0/compressed/a1n61ql5tk-0i3buxo5is.gz
+/media/holycan/Data/INTI-Collage/Web Application Development/CC_Regist_System/obj/Debug/net9.0/compressed/agjdz2yjvv-o1o13a6vjx.gz
+/media/holycan/Data/INTI-Collage/Web Application Development/CC_Regist_System/obj/Debug/net9.0/compressed/k23xh58r20-ttgo8qnofa.gz
+/media/holycan/Data/INTI-Collage/Web Application Development/CC_Regist_System/obj/Debug/net9.0/compressed/nsjsudxuzu-2z0ns9nrw6.gz
+/media/holycan/Data/INTI-Collage/Web Application Development/CC_Regist_System/obj/Debug/net9.0/compressed/qmabk6vp4u-muycvpuwrr.gz
+/media/holycan/Data/INTI-Collage/Web Application Development/CC_Regist_System/obj/Debug/net9.0/compressed/dbc2ta3xtu-87fc7y1x7t.gz
+/media/holycan/Data/INTI-Collage/Web Application Development/CC_Regist_System/obj/Debug/net9.0/compressed/u1m8apy9f2-jfsiqqwiad.gz
+/media/holycan/Data/INTI-Collage/Web Application Development/CC_Regist_System/obj/Debug/net9.0/staticwebassets.build.json
+/media/holycan/Data/INTI-Collage/Web Application Development/CC_Regist_System/obj/Debug/net9.0/staticwebassets.development.json
+/media/holycan/Data/INTI-Collage/Web Application Development/CC_Regist_System/obj/Debug/net9.0/staticwebassets.build.endpoints.json
+/media/holycan/Data/INTI-Collage/Web Application Development/CC_Regist_System/obj/Debug/net9.0/staticwebassets/msbuild.CC_Regist_System.Microsoft.AspNetCore.StaticWebAssets.props
+/media/holycan/Data/INTI-Collage/Web Application Development/CC_Regist_System/obj/Debug/net9.0/staticwebassets/msbuild.CC_Regist_System.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+/media/holycan/Data/INTI-Collage/Web Application Development/CC_Regist_System/obj/Debug/net9.0/staticwebassets/msbuild.build.CC_Regist_System.props
+/media/holycan/Data/INTI-Collage/Web Application Development/CC_Regist_System/obj/Debug/net9.0/staticwebassets/msbuild.buildMultiTargeting.CC_Regist_System.props
+/media/holycan/Data/INTI-Collage/Web Application Development/CC_Regist_System/obj/Debug/net9.0/staticwebassets/msbuild.buildTransitive.CC_Regist_System.props
+/media/holycan/Data/INTI-Collage/Web Application Development/CC_Regist_System/obj/Debug/net9.0/staticwebassets.pack.json
+/media/holycan/Data/INTI-Collage/Web Application Development/CC_Regist_System/obj/Debug/net9.0/CC_Regis.47E3A993.Up2Date
+/media/holycan/Data/INTI-Collage/Web Application Development/CC_Regist_System/obj/Debug/net9.0/CC_Regist_System.dll
+/media/holycan/Data/INTI-Collage/Web Application Development/CC_Regist_System/obj/Debug/net9.0/refint/CC_Regist_System.dll
+/media/holycan/Data/INTI-Collage/Web Application Development/CC_Regist_System/obj/Debug/net9.0/CC_Regist_System.pdb
+/media/holycan/Data/INTI-Collage/Web Application Development/CC_Regist_System/obj/Debug/net9.0/CC_Regist_System.genruntimeconfig.cache
+/media/holycan/Data/INTI-Collage/Web Application Development/CC_Regist_System/obj/Debug/net9.0/ref/CC_Regist_System.dll
+/media/holycan/Data/INTI-Collage/Web-Application-Development/CC_Regist_System/bin/Debug/net9.0/appsettings.Development.json
+/media/holycan/Data/INTI-Collage/Web-Application-Development/CC_Regist_System/bin/Debug/net9.0/appsettings.json
+/media/holycan/Data/INTI-Collage/Web-Application-Development/CC_Regist_System/bin/Debug/net9.0/CC_Regist_System.staticwebassets.runtime.json
+/media/holycan/Data/INTI-Collage/Web-Application-Development/CC_Regist_System/bin/Debug/net9.0/CC_Regist_System.staticwebassets.endpoints.json
+/media/holycan/Data/INTI-Collage/Web-Application-Development/CC_Regist_System/bin/Debug/net9.0/CC_Regist_System
+/media/holycan/Data/INTI-Collage/Web-Application-Development/CC_Regist_System/bin/Debug/net9.0/CC_Regist_System.deps.json
+/media/holycan/Data/INTI-Collage/Web-Application-Development/CC_Regist_System/bin/Debug/net9.0/CC_Regist_System.runtimeconfig.json
+/media/holycan/Data/INTI-Collage/Web-Application-Development/CC_Regist_System/bin/Debug/net9.0/CC_Regist_System.dll
+/media/holycan/Data/INTI-Collage/Web-Application-Development/CC_Regist_System/bin/Debug/net9.0/CC_Regist_System.pdb
+/media/holycan/Data/INTI-Collage/Web-Application-Development/CC_Regist_System/bin/Debug/net9.0/BCrypt.Net-Next.dll
+/media/holycan/Data/INTI-Collage/Web-Application-Development/CC_Regist_System/bin/Debug/net9.0/Humanizer.dll
+/media/holycan/Data/INTI-Collage/Web-Application-Development/CC_Regist_System/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.dll
+/media/holycan/Data/INTI-Collage/Web-Application-Development/CC_Regist_System/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/media/holycan/Data/INTI-Collage/Web-Application-Development/CC_Regist_System/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Design.dll
+/media/holycan/Data/INTI-Collage/Web-Application-Development/CC_Regist_System/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Relational.dll
+/media/holycan/Data/INTI-Collage/Web-Application-Development/CC_Regist_System/bin/Debug/net9.0/Microsoft.Extensions.DependencyModel.dll
+/media/holycan/Data/INTI-Collage/Web-Application-Development/CC_Regist_System/bin/Debug/net9.0/Mono.TextTemplating.dll
+/media/holycan/Data/INTI-Collage/Web-Application-Development/CC_Regist_System/bin/Debug/net9.0/MySqlConnector.dll
+/media/holycan/Data/INTI-Collage/Web-Application-Development/CC_Regist_System/bin/Debug/net9.0/Pomelo.EntityFrameworkCore.MySql.dll
+/media/holycan/Data/INTI-Collage/Web-Application-Development/CC_Regist_System/bin/Debug/net9.0/System.CodeDom.dll
+/media/holycan/Data/INTI-Collage/Web-Application-Development/CC_Regist_System/obj/Debug/net9.0/CC_Regist_System.csproj.AssemblyReference.cache
+/media/holycan/Data/INTI-Collage/Web-Application-Development/CC_Regist_System/obj/Debug/net9.0/CC_Regist_System.GeneratedMSBuildEditorConfig.editorconfig
+/media/holycan/Data/INTI-Collage/Web-Application-Development/CC_Regist_System/obj/Debug/net9.0/CC_Regist_System.AssemblyInfoInputs.cache
+/media/holycan/Data/INTI-Collage/Web-Application-Development/CC_Regist_System/obj/Debug/net9.0/CC_Regist_System.AssemblyInfo.cs
+/media/holycan/Data/INTI-Collage/Web-Application-Development/CC_Regist_System/obj/Debug/net9.0/CC_Regist_System.csproj.CoreCompileInputs.cache
+/media/holycan/Data/INTI-Collage/Web-Application-Development/CC_Regist_System/obj/Debug/net9.0/CC_Regist_System.MvcApplicationPartsAssemblyInfo.cache
+/media/holycan/Data/INTI-Collage/Web-Application-Development/CC_Regist_System/obj/Debug/net9.0/CC_Regist_System.RazorAssemblyInfo.cache
+/media/holycan/Data/INTI-Collage/Web-Application-Development/CC_Regist_System/obj/Debug/net9.0/CC_Regist_System.RazorAssemblyInfo.cs
+/media/holycan/Data/INTI-Collage/Web-Application-Development/CC_Regist_System/obj/Debug/net9.0/CC_Regist_System.sourcelink.json
+/media/holycan/Data/INTI-Collage/Web-Application-Development/CC_Regist_System/obj/Debug/net9.0/scopedcss/bundle/CC_Regist_System.styles.css
+/media/holycan/Data/INTI-Collage/Web-Application-Development/CC_Regist_System/obj/Debug/net9.0/compressed/mdx2lr2hsx-p5sjivdeeh.gz
+/media/holycan/Data/INTI-Collage/Web-Application-Development/CC_Regist_System/obj/Debug/net9.0/compressed/r5mbgfsfmg-hft1x52tgw.gz
+/media/holycan/Data/INTI-Collage/Web-Application-Development/CC_Regist_System/obj/Debug/net9.0/compressed/86acwlvj4s-61n19gt1b8.gz
+/media/holycan/Data/INTI-Collage/Web-Application-Development/CC_Regist_System/obj/Debug/net9.0/compressed/qjjdwb03tu-y1r69rmrpv.gz
+/media/holycan/Data/INTI-Collage/Web-Application-Development/CC_Regist_System/obj/Debug/net9.0/compressed/fk9mc8b2go-47otxtyo56.gz
+/media/holycan/Data/INTI-Collage/Web-Application-Development/CC_Regist_System/obj/Debug/net9.0/compressed/asnbqg4ojt-4v8eqarkd7.gz
+/media/holycan/Data/INTI-Collage/Web-Application-Development/CC_Regist_System/obj/Debug/net9.0/compressed/az0saj7jyp-l3n5xuwxn8.gz
+/media/holycan/Data/INTI-Collage/Web-Application-Development/CC_Regist_System/obj/Debug/net9.0/compressed/4m3sc5eaot-ilo7uva0vt.gz
+/media/holycan/Data/INTI-Collage/Web-Application-Development/CC_Regist_System/obj/Debug/net9.0/compressed/tzj8hc40gr-qlccset4i1.gz
+/media/holycan/Data/INTI-Collage/Web-Application-Development/CC_Regist_System/obj/Debug/net9.0/compressed/d2spyo7c4c-lzl9nlhx6b.gz
+/media/holycan/Data/INTI-Collage/Web-Application-Development/CC_Regist_System/obj/Debug/net9.0/compressed/589pp0n5pe-ag7o75518u.gz
+/media/holycan/Data/INTI-Collage/Web-Application-Development/CC_Regist_System/obj/Debug/net9.0/compressed/t7n3k18yr7-xzw0cte36n.gz
+/media/holycan/Data/INTI-Collage/Web-Application-Development/CC_Regist_System/obj/Debug/net9.0/compressed/a1n61ql5tk-0i3buxo5is.gz
+/media/holycan/Data/INTI-Collage/Web-Application-Development/CC_Regist_System/obj/Debug/net9.0/compressed/agjdz2yjvv-o1o13a6vjx.gz
+/media/holycan/Data/INTI-Collage/Web-Application-Development/CC_Regist_System/obj/Debug/net9.0/compressed/k23xh58r20-ttgo8qnofa.gz
+/media/holycan/Data/INTI-Collage/Web-Application-Development/CC_Regist_System/obj/Debug/net9.0/compressed/nsjsudxuzu-2z0ns9nrw6.gz
+/media/holycan/Data/INTI-Collage/Web-Application-Development/CC_Regist_System/obj/Debug/net9.0/compressed/qmabk6vp4u-muycvpuwrr.gz
+/media/holycan/Data/INTI-Collage/Web-Application-Development/CC_Regist_System/obj/Debug/net9.0/compressed/dbc2ta3xtu-87fc7y1x7t.gz
+/media/holycan/Data/INTI-Collage/Web-Application-Development/CC_Regist_System/obj/Debug/net9.0/compressed/u1m8apy9f2-jfsiqqwiad.gz
+/media/holycan/Data/INTI-Collage/Web-Application-Development/CC_Regist_System/obj/Debug/net9.0/staticwebassets.build.json
+/media/holycan/Data/INTI-Collage/Web-Application-Development/CC_Regist_System/obj/Debug/net9.0/staticwebassets.development.json
+/media/holycan/Data/INTI-Collage/Web-Application-Development/CC_Regist_System/obj/Debug/net9.0/staticwebassets.build.endpoints.json
+/media/holycan/Data/INTI-Collage/Web-Application-Development/CC_Regist_System/obj/Debug/net9.0/staticwebassets/msbuild.CC_Regist_System.Microsoft.AspNetCore.StaticWebAssets.props
+/media/holycan/Data/INTI-Collage/Web-Application-Development/CC_Regist_System/obj/Debug/net9.0/staticwebassets/msbuild.CC_Regist_System.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+/media/holycan/Data/INTI-Collage/Web-Application-Development/CC_Regist_System/obj/Debug/net9.0/staticwebassets/msbuild.build.CC_Regist_System.props
+/media/holycan/Data/INTI-Collage/Web-Application-Development/CC_Regist_System/obj/Debug/net9.0/staticwebassets/msbuild.buildMultiTargeting.CC_Regist_System.props
+/media/holycan/Data/INTI-Collage/Web-Application-Development/CC_Regist_System/obj/Debug/net9.0/staticwebassets/msbuild.buildTransitive.CC_Regist_System.props
+/media/holycan/Data/INTI-Collage/Web-Application-Development/CC_Regist_System/obj/Debug/net9.0/staticwebassets.pack.json
+/media/holycan/Data/INTI-Collage/Web-Application-Development/CC_Regist_System/obj/Debug/net9.0/CC_Regis.47E3A993.Up2Date
+/media/holycan/Data/INTI-Collage/Web-Application-Development/CC_Regist_System/obj/Debug/net9.0/CC_Regist_System.dll
+/media/holycan/Data/INTI-Collage/Web-Application-Development/CC_Regist_System/obj/Debug/net9.0/refint/CC_Regist_System.dll
+/media/holycan/Data/INTI-Collage/Web-Application-Development/CC_Regist_System/obj/Debug/net9.0/CC_Regist_System.pdb
+/media/holycan/Data/INTI-Collage/Web-Application-Development/CC_Regist_System/obj/Debug/net9.0/CC_Regist_System.genruntimeconfig.cache
+/media/holycan/Data/INTI-Collage/Web-Application-Development/CC_Regist_System/obj/Debug/net9.0/ref/CC_Regist_System.dll
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\bin\Debug\net9.0\appsettings.Development.json
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\bin\Debug\net9.0\appsettings.json
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\bin\Debug\net9.0\CC_Regist_System.staticwebassets.runtime.json
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\bin\Debug\net9.0\CC_Regist_System.staticwebassets.endpoints.json
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\bin\Debug\net9.0\CC_Regist_System.exe
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\bin\Debug\net9.0\CC_Regist_System.deps.json
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\bin\Debug\net9.0\CC_Regist_System.runtimeconfig.json
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\bin\Debug\net9.0\CC_Regist_System.dll
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\bin\Debug\net9.0\CC_Regist_System.pdb
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\bin\Debug\net9.0\BCrypt.Net-Next.dll
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\bin\Debug\net9.0\Humanizer.dll
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\bin\Debug\net9.0\Mono.TextTemplating.dll
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\bin\Debug\net9.0\System.CodeDom.dll
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\obj\Debug\net9.0\CC_Regist_System.csproj.AssemblyReference.cache
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\obj\Debug\net9.0\CC_Regist_System.GeneratedMSBuildEditorConfig.editorconfig
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\obj\Debug\net9.0\CC_Regist_System.AssemblyInfoInputs.cache
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\obj\Debug\net9.0\CC_Regist_System.AssemblyInfo.cs
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\obj\Debug\net9.0\CC_Regist_System.csproj.CoreCompileInputs.cache
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\obj\Debug\net9.0\CC_Regist_System.MvcApplicationPartsAssemblyInfo.cache
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\obj\Debug\net9.0\CC_Regist_System.RazorAssemblyInfo.cache
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\obj\Debug\net9.0\CC_Regist_System.RazorAssemblyInfo.cs
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\obj\Debug\net9.0\CC_Regist_System.sourcelink.json
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\obj\Debug\net9.0\scopedcss\bundle\CC_Regist_System.styles.css
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\obj\Debug\net9.0\compressed\mdx2lr2hsx-p5sjivdeeh.gz
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\obj\Debug\net9.0\compressed\r5mbgfsfmg-hft1x52tgw.gz
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\obj\Debug\net9.0\compressed\86acwlvj4s-61n19gt1b8.gz
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\obj\Debug\net9.0\compressed\fk9mc8b2go-47otxtyo56.gz
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\obj\Debug\net9.0\compressed\asnbqg4ojt-4v8eqarkd7.gz
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\obj\Debug\net9.0\compressed\az0saj7jyp-l3n5xuwxn8.gz
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\obj\Debug\net9.0\compressed\4m3sc5eaot-ilo7uva0vt.gz
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\obj\Debug\net9.0\compressed\tzj8hc40gr-qlccset4i1.gz
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\obj\Debug\net9.0\compressed\d2spyo7c4c-lzl9nlhx6b.gz
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\obj\Debug\net9.0\compressed\589pp0n5pe-ag7o75518u.gz
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\obj\Debug\net9.0\compressed\t7n3k18yr7-xzw0cte36n.gz
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\obj\Debug\net9.0\compressed\a1n61ql5tk-0i3buxo5is.gz
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\obj\Debug\net9.0\compressed\agjdz2yjvv-o1o13a6vjx.gz
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\obj\Debug\net9.0\compressed\k23xh58r20-ttgo8qnofa.gz
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\obj\Debug\net9.0\compressed\nsjsudxuzu-2z0ns9nrw6.gz
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\obj\Debug\net9.0\compressed\qmabk6vp4u-muycvpuwrr.gz
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\obj\Debug\net9.0\compressed\dbc2ta3xtu-87fc7y1x7t.gz
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\obj\Debug\net9.0\compressed\u1m8apy9f2-jfsiqqwiad.gz
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\obj\Debug\net9.0\staticwebassets.build.json
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\obj\Debug\net9.0\staticwebassets.development.json
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\obj\Debug\net9.0\staticwebassets\msbuild.CC_Regist_System.Microsoft.AspNetCore.StaticWebAssets.props
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\obj\Debug\net9.0\staticwebassets\msbuild.CC_Regist_System.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\obj\Debug\net9.0\staticwebassets\msbuild.build.CC_Regist_System.props
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.CC_Regist_System.props
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.CC_Regist_System.props
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\obj\Debug\net9.0\staticwebassets.pack.json
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\obj\Debug\net9.0\CC_Regis.47E3A993.Up2Date
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\obj\Debug\net9.0\CC_Regist_System.dll
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\obj\Debug\net9.0\refint\CC_Regist_System.dll
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\obj\Debug\net9.0\CC_Regist_System.pdb
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\obj\Debug\net9.0\CC_Regist_System.genruntimeconfig.cache
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\obj\Debug\net9.0\ref\CC_Regist_System.dll
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\bin\Debug\net9.0\Azure.Core.dll
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\bin\Debug\net9.0\Azure.Identity.dll
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\bin\Debug\net9.0\System.ClientModel.dll
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\bin\Debug\net9.0\System.Composition.Convention.dll
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\bin\Debug\net9.0\System.Composition.Hosting.dll
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\bin\Debug\net9.0\System.Composition.Runtime.dll
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\bin\Debug\net9.0\System.Composition.TypedParts.dll
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\bin\Debug\net9.0\System.Drawing.Common.dll
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\bin\Debug\net9.0\System.Memory.Data.dll
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\bin\Debug\net9.0\System.Runtime.Caching.dll
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\bin\Debug\net9.0\System.Security.Permissions.dll
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\bin\Debug\net9.0\System.Windows.Extensions.dll
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\obj\Debug\net9.0\compressed\qjjdwb03tu-0i36iblql0.gz
+E:\INTI-Collage\Web-Application-Development\CC_Regist_System\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt

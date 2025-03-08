@@ -1,0 +1,378 @@
+@model CC_Regist_System.ViewModels.ApplyCardViewModel;
+
+@{
+    ViewData["Title"] = "Apply Credit Card";
+    var minDate = DateTime.Now.AddYears(-100).ToString("yyyy-MM-dd");
+    var maxDate = DateTime.Now.AddYears(-18).ToString("yyyy-MM-dd");
+}
+
+<form asp-action="ReviewApplyCard" asp-controller="ApplyCard" method="post" enctype="multipart/form-data">
+    <div class="mb-8">
+        <div class="flex justify-between items-center mt-8 mb-6">
+            <h1 class="text-3xl font-bold text-gray-900">
+                Fill Your Personal Details
+            </h1>
+        </div>
+        <div class="border-b-2 border-blue-600 w-12 mb-6">
+        </div>
+
+        <div class="grid grid-cols-2 gap-4 mb-3">
+            <div>
+                <label class="block text-sm/6 font-medium text-gray-900">Full Name</label>
+                <div class="mt-2">
+                    <div
+                        class="flex items-center rounded-md bg-gray-200 pl-3 outline-1 -outline-offset-1 outline-gray-300 focus-within:outline-2 focus-within:-outline-offset-2 focus-within:outline-indigo-600">
+                        <input type="text"
+                            class="block min-w-0 grow py-1.5 pr-3 pl-1 text-base text-gray-900 placeholder:text-gray-400 focus:outline-none sm:text-sm/6 bg-gray-200"
+                            value="@Model.User?.Fullname" readonly>
+                    </div>
+                </div>
+            </div>
+            <div>
+                <label class="block text-sm/6 font-medium text-gray-900">ID Card Number</label>
+                <div class="mt-2">
+                    <div
+                        class="flex items-center rounded-md bg-white pl-3 outline-1 -outline-offset-1 outline-gray-300 focus-within:outline-2 focus-within:-outline-offset-2 focus-within:outline-indigo-600">
+                        <input type="number" asp-for="IDCardNumber" placeholder="Please enter your ID Card Number"
+                            value="@ViewData["IDCardNumber"]"
+                            class="block min-w-0 grow py-1.5 pr-3 pl-1 text-base text-gray-900 placeholder:text-gray-400 focus:outline-none sm:text-sm/6">
+                    </div>
+                    <span class="text-red-500" asp-validation-for="IDCardNumber"></span>
+                </div>
+            </div>
+        </div>
+
+
+        <div class="grid grid-cols-2 gap-4 mb-3">
+            <div>
+                <label class="block text-sm/6 font-medium text-gray-900">Phone Number</label>
+                <div class="mt-2">
+                    <div
+                        class="flex items-center rounded-md bg-gray-200 pl-3 outline-1 -outline-offset-1 outline-gray-300 focus-within:outline-2 focus-within:-outline-offset-2 focus-within:outline-indigo-600">
+                        <input type="text"
+                            class="block min-w-0 grow py-1.5 pr-3 pl-1 text-base text-gray-900 placeholder:text-gray-400 focus:outline-none sm:text-sm/6 bg-gray-200"
+                            value="@Model.User?.PhoneNumber" readonly>
+                    </div>
+                </div>
+            </div>
+            <div>
+                <label class="block text-sm/6 font-medium text-gray-900">Email</label>
+                <div class="mt-2">
+                    <div
+                        class="flex items-center rounded-md bg-gray-200 pl-3 outline-1 -outline-offset-1 outline-gray-300 focus-within:outline-2 focus-within:-outline-offset-2 focus-within:outline-indigo-600">
+                        <input type="text"
+                            class="block min-w-0 grow py-1.5 pr-3 pl-1 text-base text-gray-900 placeholder:text-gray-400 focus:outline-none sm:text-sm/6 bg-gray-200 "
+                            value="@Model.User?.Email" readonly>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="mb-3">
+            <label class="block text-gray-700 font-semibold mb-2">
+                Date Of Birth
+            </label>
+            <div>
+                <input class="w-full p-3 border border-gray-300 rounded-lg" type="date" asp-for="DateOfBirthDay"
+                    value="@ViewData["DateOfBirthDay"]" min="@minDate" max="@maxDate" />
+            </div>
+            <span class="text-red-500" asp-validation-for="DateOfBirthDay"></span>
+        </div>
+
+
+        <div class="grid grid-cols-2 gap-4 mb-3">
+            <div>
+                <label class="block text-sm/6 font-medium text-gray-900">Gender</label>
+                <div class="mt-2 grid grid-cols-1">
+                    <select asp-for="Gender" asp-items="Model.GenderOptions"
+                        class="col-start-1 row-start-1 w-full appearance-none rounded-md bg-white py-1.5 pr-8 pl-3 text-base text-gray-900 outline-1 -outline-offset-1 outline-gray-300 focus:outline-2 focus:-outline-offset-2 focus:outline-indigo-600 sm:text-sm/6"
+                        id="Gender" autocomplete="Gender">
+                        <option value="">
+                            — Please select —
+                        </option>
+                    </select>
+                    <svg class="pointer-events-none col-start-1 row-start-1 mr-2 size-5 self-center justify-self-end text-gray-500 sm:size-4"
+                        viewBox="0 0 16 16" fill="currentColor" aria-hidden="true" data-slot="icon">
+                        <path fill-rule="evenodd"
+                            d="M4.22 6.22a.75.75 0 0 1 1.06 0L8 8.94l2.72-2.72a.75.75 0 1 1 1.06 1.06l-3.25 3.25a.75.75 0 0 1-1.06 0L4.22 7.28a.75.75 0 0 1 0-1.06Z"
+                            clip-rule="evenodd" />
+                    </svg>
+                </div>
+                <span class="text-red-500" asp-validation-for="Gender"></span>
+            </div>
+            <div>
+                <label class="block text-sm/6 font-medium text-gray-900">Martial Status</label>
+                <div class="mt-2 grid grid-cols-1">
+                    <select asp-for="MaritalStatus" asp-items="Model.MaritalStatusOptions"
+                        class="col-start-1 row-start-1 w-full appearance-none rounded-md bg-white py-1.5 pr-8 pl-3 text-base text-gray-900 outline-1 -outline-offset-1 outline-gray-300 focus:outline-2 focus:-outline-offset-2 focus:outline-indigo-600 sm:text-sm/6"
+                        id="MaritalStatus" autocomplete="MaritalStatus">
+                        <option value="">
+                            — Please select —
+                        </option>
+                    </select>
+                    <svg class="pointer-events-none col-start-1 row-start-1 mr-2 size-5 self-center justify-self-end text-gray-500 sm:size-4"
+                        viewBox="0 0 16 16" fill="currentColor" aria-hidden="true" data-slot="icon">
+                        <path fill-rule="evenodd"
+                            d="M4.22 6.22a.75.75 0 0 1 1.06 0L8 8.94l2.72-2.72a.75.75 0 1 1 1.06 1.06l-3.25 3.25a.75.75 0 0 1-1.06 0L4.22 7.28a.75.75 0 0 1 0-1.06Z"
+                            clip-rule="evenodd" />
+                    </svg>
+                </div>
+                <span class="text-red-500" asp-validation-for="MaritalStatus"></span>
+            </div>
+        </div>
+
+        <div class="grid grid-cols-2 gap-4 mb-3">
+            <div>
+                <label class="block text-sm/6 font-medium text-gray-900">City</label>
+                <div class="mt-2">
+                    <div
+                        class="flex items-center rounded-md bg-white pl-3 outline-1 -outline-offset-1 outline-gray-300 focus-within:outline-2 focus-within:-outline-offset-2 focus-within:outline-indigo-600">
+                        <input type="text" asp-for="City" placeholder="Please enter your City" value="@ViewData["City"]"
+                            class="block min-w-0 grow py-1.5 pr-3 pl-1 text-base text-gray-900 placeholder:text-gray-400 focus:outline-none sm:text-sm/6">
+                    </div>
+                    <span class="text-red-500" asp-validation-for="City"></span>
+                </div>
+            </div>
+            <div>
+                <label class="block text-sm/6 font-medium text-gray-900">Province</label>
+                <div class="mt-2">
+                    <div
+                        class="flex items-center rounded-md bg-white pl-3 outline-1 -outline-offset-1 outline-gray-300 focus-within:outline-2 focus-within:-outline-offset-2 focus-within:outline-indigo-600">
+                        <input type="text" asp-for="Province" placeholder="Please enter your Province"
+                            value="@ViewData["Province"]"
+                            class="block min-w-0 grow py-1.5 pr-3 pl-1 text-base text-gray-900 placeholder:text-gray-400 focus:outline-none sm:text-sm/6">
+                    </div>
+                    <span class="text-red-500" asp-validation-for="Province"></span>
+                </div>
+            </div>
+        </div>
+
+        <div class="grid grid-cols-2 gap-4 mb-3">
+            <div>
+                <label class="block text-sm/6 font-medium text-gray-900">Country</label>
+                <div class="mt-2">
+                    <div
+                        class="flex items-center rounded-md bg-white pl-3 outline-1 -outline-offset-1 outline-gray-300 focus-within:outline-2 focus-within:-outline-offset-2 focus-within:outline-indigo-600">
+                        <input type="text" asp-for="Country" placeholder="Please enter your Country"
+                            value="@ViewData["Country"]"
+                            class="block min-w-0 grow py-1.5 pr-3 pl-1 text-base text-gray-900 placeholder:text-gray-400 focus:outline-none sm:text-sm/6">
+                    </div>
+                    <span class="text-red-500" asp-validation-for="Country"></span>
+                </div>
+            </div>
+            <div>
+                <label class="block text-sm/6 font-medium text-gray-900">Address</label>
+                <div class="mt-2">
+                    <div
+                        class="flex items-center rounded-md bg-white pl-3 outline-1 -outline-offset-1 outline-gray-300 focus-within:outline-2 focus-within:-outline-offset-2 focus-within:outline-indigo-600">
+                        <input type="text" asp-for="Address" placeholder="Please enter your Address"
+                            value="@ViewData["Address"]"
+                            class="block min-w-0 grow py-1.5 pr-3 pl-1 text-base text-gray-900 placeholder:text-gray-400 focus:outline-none sm:text-sm/6">
+                    </div>
+                    <span class="text-red-500" asp-validation-for="Address"></span>
+                </div>
+            </div>
+        </div>
+
+        <div class="grid grid-cols-2 gap-4 mb-3">
+            <div>
+                <label class="block text-sm/6 font-medium text-gray-900">Company Name</label>
+                <div class="mt-2">
+                    <div
+                        class="flex items-center rounded-md bg-white pl-3 outline-1 -outline-offset-1 outline-gray-300 focus-within:outline-2 focus-within:-outline-offset-2 focus-within:outline-indigo-600">
+                        <input type="text" asp-for="CompanyName" placeholder="Please enter your Company Name"
+                            value="@ViewData["CompanyName"]"
+                            class="block min-w-0 grow py-1.5 pr-3 pl-1 text-base text-gray-900 placeholder:text-gray-400 focus:outline-none sm:text-sm/6">
+                    </div>
+                    <span class="text-red-500" asp-validation-for="CompanyName"></span>
+                </div>
+            </div>
+            <div>
+                <label class="block text-sm/6 font-medium text-gray-900">Position</label>
+                <div class="mt-2">
+                    <div
+                        class="flex items-center rounded-md bg-white pl-3 outline-1 -outline-offset-1 outline-gray-300 focus-within:outline-2 focus-within:-outline-offset-2 focus-within:outline-indigo-600">
+                        <input type="text" asp-for="Position" placeholder="Please enter your Position"
+                            value="@ViewData["Position"]"
+                            class="block min-w-0 grow py-1.5 pr-3 pl-1 text-base text-gray-900 placeholder:text-gray-400 focus:outline-none sm:text-sm/6">
+                    </div>
+                    <span class="text-red-500" asp-validation-for="Position"></span>
+                </div>
+            </div>
+        </div>
+
+        <div class="grid grid-cols-2 gap-4 mb-3">
+            <div>
+                <label class="block text-sm/6 font-medium text-gray-900">Income/month</label>
+                <div class="mt-2">
+                    <div
+                        class="flex items-center rounded-md bg-white pl-3 outline-1 -outline-offset-1 outline-gray-300 focus-within:outline-2 focus-within:-outline-offset-2 focus-within:outline-indigo-600">
+                        RM
+                        <input type="number" asp-for="Income" placeholder="Please enter your Income/Month"
+                            value="@ViewData["Income"]"
+                            class="block min-w-0 grow py-1.5 pr-3 pl-1 text-base text-gray-900 placeholder:text-gray-400 focus:outline-none sm:text-sm/6">
+                    </div>
+                    <span class="text-red-500" asp-validation-for="Income"></span>
+                </div>
+            </div>
+            <div>
+                <label class="block text-sm/6 font-medium text-gray-900">Bank account number</label>
+                <div class="mt-2">
+                    <div
+                        class="flex items-center rounded-md bg-white pl-3 outline-1 -outline-offset-1 outline-gray-300 focus-within:outline-2 focus-within:-outline-offset-2 focus-within:outline-indigo-600">
+                        <input type="number" asp-for="BankAccountNumber"
+                            placeholder="Please enter your Bank Account Number" value="@ViewData["BankAccountNumber"]"
+                            class="block min-w-0 grow py-1.5 pr-3 pl-1 text-base text-gray-900 placeholder:text-gray-400 focus:outline-none sm:text-sm/6">
+                    </div>
+                    <span class="text-red-500" asp-validation-for="BankAccountNumber"></span>
+                </div>
+            </div>
+        </div>
+
+        <div>
+            <label class="block text-sm/6 font-medium text-gray-900">Scan ID</label>
+            <div class="mt-2">
+                <div
+                    class="flex items-center rounded-md bg-white pl-3 outline-1 -outline-offset-1 outline-gray-300 focus-within:outline-2 focus-within:-outline-offset-2 focus-within:outline-indigo-600">
+                    <input type="file" asp-for="ScanID"
+                        class="block min-w-0 grow py-1.5 pr-3 pl-1 text-base text-gray-900 placeholder:text-gray-400 focus:outline-none sm:text-sm/6">
+                </div>
+                <span class="text-red-500" asp-validation-for="ScanID"></span>
+            </div>
+        </div>
+    </div>
+
+    <div>
+        <div class="flex justify-between items-center mb-6">
+            <h1 class="text-3xl font-bold text-gray-900">
+                Select Your Credit Card
+            </h1>
+        </div>
+        <div class="border-b-2 border-blue-600 w-12 mb-6">
+        </div>
+
+        <div class="sm:col-span-3 mb-3">
+            <label class="block text-sm/6 font-medium text-gray-900">Card Name</label>
+            <div class="mt-2 grid grid-cols-1">
+                <select asp-for="CardName" asp-items="Model.CardNameOptions"
+                    class="col-start-1 row-start-1 w-full appearance-none rounded-md bg-white py-1.5 pr-8 pl-3 text-base text-gray-900 outline-1 -outline-offset-1 outline-gray-300 focus:outline-2 focus:-outline-offset-2 focus:outline-indigo-600 sm:text-sm/6"
+                    id="CardName" autocomplete="card-name">
+                    <option value="">
+                        — Please select —
+                    </option>
+                </select>
+                <svg class="pointer-events-none col-start-1 row-start-1 mr-2 size-5 self-center justify-self-end text-gray-500 sm:size-4"
+                    viewBox="0 0 16 16" fill="currentColor" aria-hidden="true" data-slot="icon">
+                    <path fill-rule="evenodd"
+                        d="M4.22 6.22a.75.75 0 0 1 1.06 0L8 8.94l2.72-2.72a.75.75 0 1 1 1.06 1.06l-3.25 3.25a.75.75 0 0 1-1.06 0L4.22 7.28a.75.75 0 0 1 0-1.06Z"
+                        clip-rule="evenodd" />
+                </svg>
+            </div>
+            <span class="text-red-500" asp-validation-for="CardName"></span>
+        </div>
+
+        <div class="grid grid-cols-2 gap-4 mb-3">
+            <div>
+                <label class="block text-sm/6 font-medium text-gray-900">Card Type</label>
+                <div class="mt-2">
+                    <div
+                        class="flex items-center rounded-md bg-gray-200 pl-3 outline-1 -outline-offset-1 outline-gray-300 focus-within:outline-2 focus-within:-outline-offset-2 focus-within:outline-indigo-600">
+                        <input type="text" id="CardType" asp-for="CardType"
+                            class="block min-w-0 grow py-1.5 pr-3 pl-1 text-base text-gray-900 placeholder:text-gray-400 focus:outline-none sm:text-sm/6 bg-gray-200"
+                            value="@ViewData["CardType"]" readonly>
+                    </div>
+                </div>
+            </div>
+            <div>
+                <label class="block text-sm/6 font-medium text-gray-900">Card Tier</label>
+                <div class="mt-2">
+                    <div
+                        class="flex items-center rounded-md bg-gray-200 pl-3 outline-1 -outline-offset-1 outline-gray-300 focus-within:outline-2 focus-within:-outline-offset-2 focus-within:outline-indigo-600">
+                        <input type="text" id="CardTier" asp-for="CardTier"
+                            class="block min-w-0 grow py-1.5 pr-3 pl-1 text-base text-gray-900 placeholder:text-gray-400 focus:outline-none sm:text-sm/6 bg-gray-200 "
+                            value="@ViewData["CardTier"]" readonly>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="grid grid-cols-2 gap-4 mb-3">
+            <div>
+                <label class="block text-sm/6 font-medium text-gray-900">Credit Limit</label>
+                <div class="mt-2">
+                    <div
+                        class="flex items-center rounded-md bg-gray-200 pl-3 outline-1 -outline-offset-1 outline-gray-300 focus-within:outline-2 focus-within:-outline-offset-2 focus-within:outline-indigo-600">
+                        <div class="shrink-0 text-base text-black-500 select-none sm:text-sm/6">RM</div>
+                        <input type="text" id="CreditLimit" asp-for="CreditLimit"
+                            class="block min-w-0 grow py-1.5 pr-3 pl-1 text-base text-gray-900 placeholder:text-gray-400 focus:outline-none sm:text-sm/6 bg-gray-200"
+                            value="@ViewData["CreditLimit"]" readonly>
+                    </div>
+                </div>
+            </div>
+
+            <div>
+                <label class="block text-sm/6 font-medium text-gray-900">Interest Rate</label>
+                <div class="mt-2">
+                    <div
+                        class="flex items-center rounded-md bg-gray-200 pl-3 outline-1 -outline-offset-1 outline-gray-300 focus-within:outline-2 focus-within:-outline-offset-2 focus-within:outline-indigo-600">
+                        <input type="text" id="InterestRate"
+                            class="block min-w-0 grow py-1.5 pr-3 pl-1 text-base text-gray-900 placeholder:text-gray-400 focus:outline-none sm:text-sm/6 bg-gray-200"
+                            value="0%" readonly>
+                        <input type="hidden" id="InterestRateValue" asp-for="InterestRate"
+                            value="@ViewData["InterestRate"]">
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="sm:col-span-4 mb-5">
+            <label for="username" class="block text-sm/6 font-medium text-gray-900">Annual Fee</label>
+            <div class="mt-2">
+                <div
+                    class="flex items-center rounded-md bg-gray-200 pl-3 outline-1 -outline-offset-1 outline-gray-300 focus-within:outline-2 focus-within:-outline-offset-2 focus-within:outline-indigo-600">
+                    <div class="shrink-0 text-base text-black-500 select-none sm:text-sm/6">RM</div>
+                    <input type="text" id="AnnualFee" asp-for="AnnualFee"
+                        class="block min-w-0 grow py-1.5 pr-3 pl-1 text-base text-gray-900 placeholder:text-gray-400 focus:outline-none sm:text-sm/6 bg-gray-200"
+                        value="@ViewData["AnnualFee"]" readonly>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="flex justify-center mb-8">
+        <button type="submit"
+            class="text-white bg-green-300 hover:bg-green-800 focus:ring-4 focus:ring-green-300 font-medium rounded-lg text-sm px-5 py-2.5 me-2 mb-2 dark:bg-green-600 dark:hover:bg-green-700 focus:outline-none dark:focus:ring-green-800">Next</button>
+    </div>>
+</form>
+
+<div asp-validation-summary="All" class="text-red-500"></div>
+
+<script>
+    document.addEventListener("DOMContentLoaded", function () {
+        var selectedGender = "@ViewData["Gender"]";
+        var selectedMarital = "@ViewData["MaritalStatus"]";
+        var selectedCard = "@ViewData["CardName"]";
+        var genderSelect = document.getElementById("Gender");
+        var maritalSelect = document.getElementById("MaritalStatus");
+        var cardSelect = document.getElementById("CardName");
+
+        selectOption(genderSelect, selectedGender)
+        selectOption(maritalSelect, selectedMarital)
+        selectOption(cardSelect, selectedCard)
+
+        function selectOption(element, value) {
+            for (var i = 0; i < element.options.length; i++) {
+                if (element.options[i].value === value) {
+                    element.options[i].selected = true;
+                    break;
+                }
+            }
+        }
+    });
+</script>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

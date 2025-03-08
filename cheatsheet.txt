@@ -1,0 +1,4 @@
+For Remove Migration : dotnet ef migrations remove
+For Create Migration : dotnet ef migrations add InitialCreate
+For Push To Database : dotnet ef database update
+For Rollback : dotnet ef database update 0

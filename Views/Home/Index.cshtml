@@ -1,0 +1,179 @@
+@model CC_Regist_System.Models.Users.UsersModel
+
+@{
+    ViewData["Title"] = "Homepage";
+}
+
+<section class="cc-section">
+    <div class="cc-container">
+        <div class="cc-card front-face">
+            <header>
+                <span class="logo">
+                    <img src="~/images/visa.png" asp-append-version="true" alt="Card Logo" id="CardLogo"
+                        style="width: 50px;">
+                    <h5></h5>
+                </span>
+                <img src="~/images/chip.png" asp-append-version="true" alt="Chip Logo" class="chip">
+            </header>
+
+            <div class="cc-card-details">
+                <div class="name-number">
+                    <h6 class="text-sm">Card Number</h6>
+                    @if (ViewData["HasCard"] as bool? == true)
+                    {
+                        <h5 class="text-sm">@Model.Card?.CardNumber</h5>
+                    }
+                    else
+                    {
+                        <h5 class="text-sm">**** **** **** ****</h5>
+                    }
+                    <div class="mt-3 card-holder">
+                        <h6 class="text-sm">Card Holder</h6>
+                        @if (ViewData["HasCard"] as bool? == true)
+                        {
+                            <h5 class="text-sm">@Model.Fullname</h5>
+                        }
+                        else
+                        {
+                            <h5 class="text-sm">**** ****</h5>
+                        }
+                    </div>
+                </div>
+
+
+                <div class="valid-date">
+                    <h6 class="text-sm">Expiration Date</h6>
+                    @if (ViewData["HasCard"] as bool? == true)
+                    {
+                        <h5 class="text-sm">@Model.Card?.ExpirationDate.ToString("MM/yy")</h5>
+                    }
+                    else
+                    {
+                        <h5>**/**</h5>
+                    }
+                </div>
+            </div>
+        </div>
+
+        <div class="cc-card back-face">
+            <h6>
+                PT ABC Bank Tbk
+            </h6>
+            <span class="magnetic-strip"></span>
+            @if (ViewData["HasCard"] as bool? == true)
+            {
+                <div class="signature"><i>@Model.Card?.CVV</i></div>
+            }
+            else
+            {
+                <div class="signature"><i>***</i></div>
+            }
+            <h5>
+                This card is the property of ABC Bank. Use of this card is subject
+                to terms and conditions of this Holy bank.If found please email halo@holy.bank.id
+            </h5>
+        </div>
+    </div>
+</section>
+
+<div class="flex flex-col justify-center items-center mb-8">
+    @if (ViewData["HasCard"] as bool? == true)
+    {
+        <div
+            class="block max-w-4xl p-6 bg-white border border-gray-200 rounded-lg shadow-sm hover:bg-gray-100 dark:bg-gray-800 dark:border-gray-700 dark:hover:bg-gray-700 mb-8">
+
+            <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white text-center mb-4">Credit
+                Card
+                Details
+            </h5>
+            <div class="grid grid-cols-3 gap-4 mb-3 justify-center text-center items-center mb-8">
+                <div class="flex flex-col text-center text-white">
+                    <h5 class="font-semi-bold mb-3">Card Name</h5>
+                    <p class="text-gray-400" id="CardName">@Model.Card?.CardName</p>
+                </div>
+                <div class="flex flex-col text-center text-white">
+                    <h5 class="font-semi-bold mb-3">Card Type</h5>
+                    <p class="text-gray-400">@Model.Card?.CardType</p>
+                </div>
+                <div class="flex flex-col text-center text-white">
+                    <h5 class="font-semi-bold mb-3">Card Tier</h5>
+                    <p class="text-gray-400">@Model.Card?.CardTier</p>
+                </div>
+                <div class="flex flex-col text-center text-white">
+                    <h5 class="font-semi-bold mb-3">Credit Limit</h5>
+                    <p class="text-gray-400">RM @Model.Card?.CardDetail.CreditLimit</p>
+                </div>
+                <div class="flex flex-col text-center text-white">
+                    <h5 class="font-semi-bold mb-3">Interest Rate</h5>
+                    <p class="text-gray-400">@Model.Card?.CardDetail.InterestRate%</p>
+                </div>
+                <div class="flex flex-col text-center text-white">
+                    <h5 class="font-semi-bold mb-3">Annual Fee</h5>
+                    <p class="text-gray-400">RM @Model.Card?.CardDetail.AnnualFee</p>
+                </div>
+            </div>
+        </div>
+
+        <button onclick="deleteCard(@Model.Card.CardID)"
+            class="text-white bg-red-300 hover:bg-red-800 focus:ring-4 focus:ring-red-300 font-medium rounded-lg text-sm px-5 py-2.5 me-2 mb-2 dark:bg-red-600 dark:hover:bg-red-700 focus:outline-none dark:focus:ring-red-800">
+            Delete Card
+        </button>
+    }
+    else
+    {
+        <h5
+            class="text-white bg-red-300 font-medium rounded-lg text-sm px-5 py-2.5 me-2 mb-2 dark:bg-red-600 focus:outline-none dark:focus:ring-red-800">
+            You Don't Have Any Credit card Please Registering Card First!</h5>
+    }
+</div>
+
+<script>
+    async function deleteCard(cardId) {
+        const confirmation = await Swal.fire({
+            title: "Are You Sure Want To Delete Your Card?",
+            showCancelButton: true,
+            confirmButtonText: "Yes",
+        });
+
+        if (confirmation.isConfirmed) {
+            try {
+                const response = await fetch(`/DeleteCard/${cardId}`, {
+                    method: "DELETE",
+                });
+
+                let result;
+                try {
+                    result = await response.json();
+                } catch (error) {
+                    result = { Message: "Delete Card Faield: " + error };
+                }
+
+                if (response.ok) {
+                    await Swal.fire({
+                        icon: "success",
+                        title: "Delete Card Successfully",
+                        text: result.Message,
+                        timer: 3000,
+                        showConfirmButton: false
+                    });
+
+                    window.location.href = "/";
+                } else {
+                    Swal.fire({
+                        icon: "error",
+                        title: "Delete Card Failed",
+                        text: result.Message || "Something went wrong when delete card.",
+                        timer: 3000
+                    });
+                }
+            } catch (error) {
+                Swal.fire({
+                    icon: "error",
+                    title: "Delete Card Error",
+                    text: "An error occurred while deleting credit card.",
+                    timer: 3000
+                });
+            }
+        }
+    }
+</script>

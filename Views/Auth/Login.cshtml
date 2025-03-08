@@ -1,0 +1,81 @@
+@model CC_Regist_System.ViewModels.LoginViewModel;
+
+@{
+    ViewData["Title"] = "Login";
+}
+
+<div class="flex flex-col justify-center align-center w-full h-full">
+    <div class="flex justify-between items-center mb-6">
+        <h1 class="text-3xl font-bold text-gray-900">
+            Sign Into Your Account
+        </h1>
+    </div>
+    <div class="border-b-2 border-blue-600 w-12 mb-6">
+    </div>
+    <form asp-controller="Auth" asp-action="UserLogin" method="post" id="LoginForm">
+        <div class="mb-3">
+            <label class="block text-gray-700 font-semibold mb-2">
+                Username
+            </label>
+            <input class="w-full p-3 border border-gray-300 rounded-lg" placeholder="Please enter your Username"
+                type="text" asp-for="Username" />
+            <span class="text-red-500" asp-validation-for="Username"></span>
+        </div>
+
+        <div class="mb-3">
+            <label class="block text-gray-700 font-semibold mb-2">
+                Password
+            </label>
+            <input class="w-full p-3 border border-gray-300 rounded-lg" placeholder="Please enter your password"
+                type="password" asp-for="Password" />
+            <span class="text-red-500" asp-validation-for="Password"></span>
+        </div>
+
+        <div class="mt-8">
+            <button class="w-full bg-green-600 text-white p-3 rounded-lg flex items-center justify-center"
+                type="submit">
+                Sign In
+            </button>
+        </div>
+    </form>
+</div>
+
+<script>
+    document.addEventListener("DOMContentLoaded", function () {
+        const form = document.getElementById("LoginForm");
+
+        form.addEventListener("submit", async function (event) {
+            event.preventDefault();
+
+            const formData = new FormData(form);
+            const response = await fetch(form.action, {
+                method: "POST",
+                body: formData
+            });
+
+
+            const result = await response.json();
+
+            if (response.ok) {
+                Swal.fire({
+                    icon: "success",
+                    title: "Sign In Successfully",
+                    text: result.message,
+                    timer: 3000,
+                    showConfirmButton: false
+                }).then(() => {
+                    window.location.href = "/";
+                });
+            } else {
+                Swal.fire({
+                    icon: "error",
+                    title: "Sign In Failed",
+                    timer: 3000,
+                    text: result.message || result.message[0] || "Sign In failed.",
+                });
+
+                return;
+            }
+        });
+    });
+</script>
